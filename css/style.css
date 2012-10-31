@@ -2,6 +2,7 @@ body {background: #f3f3f3 url('../images/bg.png')}
 body {font:12px/1.6 arial,helvetica,sans-serif;margin:0;padding:0;color:#666}
 
 .main {width:642px;margin:40px auto;}
+.comments {width:642px;margin:40px auto;}
 
 .banner {height:35px;margin:0px auto;}
 .banner ul {list-style:none;padding:8px 0px 0px 10px;margin:0px}
@@ -33,3 +34,8 @@ body {font:12px/1.6 arial,helvetica,sans-serif;margin:0;padding:0;color:#666}
 .paginator a:link{color:#817F7F;text-decoration:none;text-shadow:0px 1px 0px white; padding:3px;margin:0 2px}
 .paginator a:visited{color:#817F7F;text-decoration:none;text-shadow:0px 1px 0px white;}
 .paginator a:hover{background:#4d4f51; padding:3px; color:white; text-shadow: 0 1px 0 black; -moz-border-radius:4px;-webkit-border-radius:4px;border-radius:4px;margin:0 2px;}
+
+.comments a:link{color:#817F7F;text-decoration:none;text-shadow:0px 1px 0px white; padding:3px;margin:0 2px}
+.comments a:visited{color:#817F7F;text-decoration:none;text-shadow:0px 1px 0px white;}
+.comments a:hover{background:#4d4f51; padding:3px; color:white; text-shadow: 0 1px 0 black; -moz-border-radius:4px;-webkit-border-radius:4px;border-radius:4px;margin:0 2px;}
+
