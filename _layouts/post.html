@@ -1,11 +1,18 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-  <title>${{ page.title }}</title>
+  <title>{{ page.title }}</title>
   <link rel="stylesheet" href="/css/style.css" type="text/css">
   <link rel="alternate" type="application/atom+xml" title="Recent Entries" href="/atom.xml">
 </head>
 <body>
-{{ content }}
+<div class="main">
+  <entry>
+    <div class="title">{{ page.title }}</div>
+    <div class="posts">
+      {{ content }}
+    </div>
+  </entry>
+</div>
 </body>
 </html>
