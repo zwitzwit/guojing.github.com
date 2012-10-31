@@ -1,1 +1,14 @@
-this is a test
+---
+layout: default
+title: GuoJing's Blog|只要心还跳
+---
+
+{% for post in paginator.posts %}
+<div class="posts">
+<div class="title"><a href="{{ post.url }}">{{ post.title }}</a></div>
+<div class="author"><img src="/images/authors/guojing.jpg"/> <span class="name">放开那个西红柿</span></a></div>
+<div class="content {{ post.categories }}_content_css">
+{{ post.content }}
+</div>
+</div>
+{% endfor %}
