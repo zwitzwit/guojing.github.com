@@ -1,0 +1,113 @@
+body {font:12px/1.6 arial,helvetica,sans-serif;margin:0;padding:0;color:#666}
+body {font-family: "Rosario", "Xin Gothic", "Hiragino Sans GB", "Microsoft YaHei", "WenQuanYi Micro Hei", Arial, sans-serif}
+
+h1, h2, h3, h4, h5, h6 {color: black; margin:15px 0}
+
+h3 {font-size:16px}
+
+.poster {margin-bottom: 30px}
+.container {padding:5px; max-width:760px}
+.banner {margin:35px auto; margin-bottom: 30px; margin-left:-10px}
+.title {font-size:4.2em;}
+.content, blockquote{font-size:1.2em; line-height: 2.3em}
+.content p{margin-bottom: 20px;}
+.content img{margin:0px auto;display:block;margin-top: 10px; margin-bottom: 20px; height: auto; width:100%; display: inline-block;}
+blockquote p {font-size:1.2em; font-weight:normal; line-height: 2.3em; font-size:14px; font-style:italic;}
+
+.title, .date, .content {margin-bottom:20px;}
+
+.more .title {font-size:1.2em;}
+
+.forb {text-align:right}
+
+.footer {text-align:center;margin-top:30px}
+
+.date {color:white;}
+.date {text-transform: uppercase;}
+.date a:link{color:white;text-decoration:none;padding:3px;margin:0 2px}
+.date a:visited{color:white;text-decoration:none;}
+.blog_css, .date, .tec_css, .share_css{background:#00b893; width: 190px;-moz-border-radius:4px;-webkit-border-radius:4px;border-radius:4px;text-align:center}
+
+.footer {color:#b2b2b2}
+.footer a:link{color:#b2b2b2;text-decoration:none;padding:3px;margin:0 2px}
+.footer a:visited{color:#b2b2b2;text-decoration:none;}
+
+.title a:link{color:black;text-decoration:none;}
+.title a:visited{color:black;text-decoration:none;}
+
+.banner a:link{color:#817F7F;text-decoration:none;}
+.banner a:visited{color:#817F7F;text-decoration:none;}
+.banner a:hover{color:black;text-decoration:none;background:white}
+
+.content a:visited { padding:3px; -moz-border-radius:4px;-webkit-border-radius:4px;border-radius:4px;margin:0 2px;color:gray;text-decoration:none}
+.content a:link{padding:3px; -moz-border-radius:4px;-webkit-border-radius:4px;border-radius:4px;margin:0 2px;color:gray;text-decoration:none}
+.content a:hover{padding:3px; -moz-border-radius:4px;-webkit-border-radius:4px;border-radius:4px;margin:0 2px;color:#00b893;text-decoration:none}
+
+.comments a:link{color:#00b893;text-decoration:none;padding:3px;margin:0 2px}
+.comments a:visited{color:#00b893;text-decoration:none;}
+
+.tec_comments_css a:link{color:#ff7862;text-decoration:none;padding:3px;margin:0 2px}
+.tec_comments_css a:visited{color:#ff7862;text-decoration:none;}
+
+.share_comments_css a:link{color:#3498db;text-decoration:none;padding:3px;margin:0 2px}
+.share_comments_css a:visited{color:#3498db;text-decoration:none;}
+
+a:link{text-decoration:none;}
+
+.tec_css {background:#ff7862}
+.share_css {background:#3498db}
+
+.blog_content_css a:hover{padding:3px; -moz-border-radius:4px;-webkit-border-radius:4px;border-radius:4px;margin:0 2px;color:#00b893;text-decoration:none}
+.tec_content_css a:hover{padding:3px; -moz-border-radius:4px;-webkit-border-radius:4px;border-radius:4px;margin:0 2px;color:#ff7862;text-decoration:none}
+.share_content_css a:hover{padding:3px; -moz-border-radius:4px;-webkit-border-radius:4px;border-radius:4px;margin:0 2px;color:#3498db;text-decoration:none}
+
+.content strong {color:black;}
+
+.comments {margin-bottom:30px; margin-top: 50px}
+.comments .comment {font-size: 1.2em;}
+
+.archive, .content{list-style: none; padding: 0px}
+.archive li, .content li{padding: 0px; margin:0px 0px 10px 0px; line-height: 25px}
+.archive li time {color:#989990;}
+.archive .year {color: black; font-weight: bold; text-transform: uppercase; margin: 10px 0px;}
+
+ul, ol {margin: 0px; list-style:none}
+
+code {border:1px dashed #ccc;  -moz-border-radius:4px;-webkit-border-radius:4px;border-radius:4px; box-shadow:inset 1px 1px white; font-family:monospace; color:gray}
+
+pre {padding:10px; background:#f4f4f4;  -moz-border-radius:4px;-webkit-border-radius:4px;border-radius:4px;border:none;line-height:3.2em}
+pre code {border: none; box-shadow: none; font-size: 14px}
+pre {margin-bottom: 25px}
+
+#disqus_container .comment {margin-left: -5px}
+
+/* index */
+
+.index .title {font-size:25px}
+
+/* rewrite bootstrap */
+
+@media (min-width: 800px) {
+  .container,
+  .navbar-static-top .container,
+  .navbar-fixed-top .container,
+  .navbar-fixed-bottom .container {
+}
+}
+
+/* bootstrap rc1 not support img auto responsive */
+
+img {
+  width: auto\9;
+  height: auto;
+  max-width: 100%;
+  vertical-align: middle;
+  border: 0;
+  -ms-interpolation-mode: bicubic;
+  -moz-border-radius:3px;-webkit-border-radius:3px;border-radius:3px;
+}
+
+.nav-pills > li > a:hover {
+    color: #00b893;
+    background-color: white;
+ }

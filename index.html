@@ -1,1 +1,17 @@
-this is a test
+---
+layout: default
+title: GuoJing's Blog|只要心还跳
+---
+
+{% for post in paginator.posts %}
+<div class="posts">
+<div class="title"><a href="{{ post.url }}">{{ post.title }}</a></div>
+<div class="date {{ post.categories }}_css">记于{{ post.date | date:"%Y年%m月%d日"}} <a href="/categories/#{{ post.categories }}">{{ post.categories }}</a></div>
+<div class="content {{ post.categories }}_content_css">
+{{ post.content }}
+</div>
+</div>
+{% endfor %}
+<div class="more">
+    <div class="title">&gt;&gt; <a href="/archive/">更多</a></div>
+</div>
