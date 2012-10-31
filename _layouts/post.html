@@ -60,7 +60,14 @@
 </div>
 
 <script type="text/javascript">
-    $(document).ready(function(){alert('tete')});
+    $(document).ready(function(){
+        $('#disqus_container .comment').on('click',function(){
+            $(this).html('加载中...');
+    var disqus_shortname = 'jguoer';
+            var that = this;
+            BYB.includeScript('http://' + disqus_shortname + '.disqus.com/embed.js',function(){$(that).remove()});
+        });
+});
 </script>
 
 <div class="footer">
