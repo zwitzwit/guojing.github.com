@@ -1,10 +1,34 @@
 ---
 layout: default
-title: Blog
+title: GuoJing's Blog|只要心还跳
 ---
+
+<!DOCTYPE HTML>
+<html>
+<head>
+  <title>GuoJing's Blog|只要心还跳</title>
+  <link rel="stylesheet" href="/css/style.css" type="text/css">
+  <link rel="alternate" type="application/atom+xml" title="Recent Entries" href="/atom.xml">
+</head>
+<body>
+<div class="banner">
+  <ul>
+    <li><a href="/">Home</a></li>
+    <li><a href="http://www.douban.com/people/JGuo/">Douban</a></li>
+    <li><a href="http://www.flickr.com/photos/soundbbg/">Flickr</a></li>
+    <li><a href="/about">About</a></li>
+  </ul>
+</div>
+<div class="main">
 {% for post in site.categories.blog %}
 <div class="title"><a href="{{ post.url }}">{{ post.title }}</a></div>
 <div class="content">
 {{ post.content }}
 </div>
 {% endfor %}
+</div>
+<div class="footer">
+{{ site.copyright }}
+</div>
+</body>
+</html>
