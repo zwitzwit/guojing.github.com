@@ -5,8 +5,8 @@ pygments:         true
 paginate:         6
 permalink:        /:categories/:year/:month/:day/:title/
 
-title:            jguoer.com
-url:              http://jguoer.com
+title:            guojing.me
+url:              http://guojing.me
 feed:             /atom.xml
 author:
     name:         GuoJing
