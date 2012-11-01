@@ -24,6 +24,7 @@ title: GuoJing's Blog|只要心还跳
 <div class="main">
 {% for post in paginator.posts %}
 <div class="title"><a href="{{ post.url }}">{{ post.title }}</a></div>
+<div class="date">记于{{ post.date }}</div>
 <div class="content">
 {{ post.content }}
 </div>
