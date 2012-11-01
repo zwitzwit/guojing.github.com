@@ -21,6 +21,24 @@ title: GuoJing's Blog|只要心还跳
   </ul>
 </div>
 
+<div class="main">
+{% for post in paginator.posts %}
+<div class="title"><a href="{{ post.url }}">{{ post.title }}</a></div>
+<div class="content">
+{{ post.content }}
+</div>
+{% endfor %}
+</div>
+<div class="paginator">
+{% if paginator.previous_page %}
+previous
+{% endif %}
+|
+{% if paginator.next_page %}
+next
+{% endif %}
+</div>
+
 <div class="footer">
 {{ site.copyright }}
 </div>
