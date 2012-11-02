@@ -23,6 +23,9 @@
 </div>
 
 <div class="paginator">
+
+{% if paginator.previous_page or paginator.next_page %}
+
 {% if paginator.previous_page %}
 
 {% if paginator.previous_page == 1 %}
@@ -32,11 +35,13 @@
 {% endif %}
 
 {% endif %}
-|
+
 {% if paginator.next_page %}
 <a href="{{ page.id }}/page{{ paginator.next_page }}/">下一页</a>
 {% endif %}
 </div>
+
+{% endif %}
 
 <div class="footer">
 {{ site.copyright }}
