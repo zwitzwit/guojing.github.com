@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      只是无法停止写字
+title:      只是无法停止
 category: blog
 description: 我无法停止的，是持续的记录
 ---
