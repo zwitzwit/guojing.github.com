@@ -29,7 +29,7 @@ body {font:12px/1.6 arial,helvetica,sans-serif;margin:0;padding:0;color:#666}
 .content b{color:#5c5c5c;}
 .content {padding:15px}
 
-.footer, .paginator{font-size:11px; text-shadow:0 1px 0 white;text-align:center;margin-top:-20px}
+.footer, .paginator{font-size:11px; text-shadow:0 1px 0 white;text-align:center;margin-top:-20px;margin-bottom:25px;}
 
 .paginator a:link{color:#817F7F;text-decoration:none;text-shadow:0px 1px 0px white; padding:3px;margin:0 2px}
 .paginator a:visited{color:#817F7F;text-decoration:none;text-shadow:0px 1px 0px white;}

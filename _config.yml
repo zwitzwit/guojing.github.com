@@ -2,12 +2,12 @@ auto:	          true
 
 markdown:         rdiscount
 pygments:         true
-paginate:         6
+paginate:         10
 permalink:        /:categories/:year/:month/:day/:title/
 
 title:            guojing.me
 url:              http://guojing.me
-feed:             /atom.xml
+feed:             /feed.xml
 author:
     name:         GuoJing
     twitter:      twitter.com/guojing
