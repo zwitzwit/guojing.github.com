@@ -1,5 +1,5 @@
 ---
-layout:     post
+layout:     default
 title:      关于我
 category: blog
 description: 关于我
