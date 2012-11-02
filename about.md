@@ -4,7 +4,7 @@ title:      关于我
 category: blog
 description: 关于我
 ---
-<div class="title">关于我</a>
+<div class="title">关于我</div>
 <div class="content">
 このサイトは個人的な生活サイトです。日本語を勉強して、でもあまり上手ではありません、初心者です。何が間違、教えてください。亀が一番好きです。
 
