@@ -2,7 +2,8 @@ body {background: #f3f3f3 url('../images/bg.png')}
 body {font:12px/1.6 arial,helvetica,sans-serif;margin:0;padding:0;color:#666}
 
 .main {width:642px;margin:40px auto;}
-.comments {width:634px;margin:35px auto;}
+.comments {width:645px;margin:35px auto;}
+.guide {width: 634px;margin: 0px auto;}
 
 .banner {height:35px;margin:0px auto;}
 .banner ul {list-style:none;padding:8px 0px 0px 10px;margin:0px}
@@ -11,6 +12,10 @@ body {font:12px/1.6 arial,helvetica,sans-serif;margin:0;padding:0;color:#666}
 .banner a:link{color:#817F7F;text-decoration:none;text-shadow:0px 1px 0px white; padding:3px;margin:0 2px}
 .banner a:visited{color:#817F7F;text-decoration:none;text-shadow:0px 1px 0px white;}
 .banner a:hover{background:#4d4f51; padding:3px; color:white; text-shadow: 0 1px 0 black; -moz-border-radius:4px;-webkit-border-radius:4px;border-radius:4px;margin:0 2px;}
+
+.guide a:link{color:#817F7F;text-decoration:none;text-shadow:0px 1px 0px white; padding:3px;margin:0 2px}
+.guide a:visited{color:#817F7F;text-decoration:none;text-shadow:0px 1px 0px white;}
+.guide a:hover{background:#4d4f51; padding:3px; color:white; text-shadow: 0 1px 0 black; -moz-border-radius:4px;-webkit-border-radius:4px;border-radius:4px;margin:0 2px;}
 
 .title a:link{color:#555;text-decoration:none;text-shadow:0px 1px 0px white; padding:3px;margin:0 2px}
 .title a:visited{color:#555;text-decoration:none;text-shadow:0px 1px 0px white;}
@@ -48,7 +53,7 @@ body {font:12px/1.6 arial,helvetica,sans-serif;margin:0;padding:0;color:#666}
 
 .center{text-align:center}
 
-.share {margin:-20px auto; width:630px;text-align:right}
+.share {margin:10px auto; width:630px;text-align:right}
 
 .clearfix:after { content: "."; display: block; height: 0; clear: both; visibility: hidden }
 
@@ -57,3 +62,9 @@ body {font:12px/1.6 arial,helvetica,sans-serif;margin:0;padding:0;color:#666}
 .content img{margin:0px auto;display:block;max-width:600px}
 
 .cast {color:#CCC;text-shadow:0 1px 0 white;font-size:12px;margin:10px auto;width:643px;margin-bottom: -25px;padding-left: 5px}
+
+.previous {float: left;}
+
+.next {float: right;}
+
+.douban {margin-right: 5px;}

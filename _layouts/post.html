@@ -59,7 +59,23 @@
   </div>
 </div>
 
+<div class="guide clearfix">
+<div class="previous">
+  {% if page.previous %}
+  上一篇: <a href="{{ page.previous.url }}">{{ page.previous.title }}</a>
+  {% endif %}
+</div>
+<div class="next">
+  {% if page.next %}
+  下一篇: <a href="{{ page.next.url }}">{{ page.next.title }}</a>
+  {% endif %}
+</div>
+</div>
+
 <div class="share clearfix">
+<div class="douban">
+  <a href="http://9.douban.com/reader/subscribe?url=你的博客地址" target="_blank"><img src="http://www.douban.com/pics/newnine/feedbutton1.gif"/></a>
+</div>
 <!-- JiaThis Button BEGIN -->
 <div class="jiathis_style">
 	<a href="http://www.jiathis.com/share?uid=1703325" class="jiathis jiathis_txt" target="_blank"><img src="http://v3.jiathis.com/code_mini/images/btn/v1/jiathis1.gif" border="0" /></a>
