@@ -18,7 +18,7 @@ description: 关于我
 
 メール <soundbbg@gmail.com>
 
-[Github]<http://www.github.com/guojing>
+[Github](http://www.github.com/guojing)
 
 2009-NOW
 
