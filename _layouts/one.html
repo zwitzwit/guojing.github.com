@@ -1,0 +1,77 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+  <title>{{ page.title }}|GuoJing's Blog</title>
+  <meta charset="utf-8" />
+  <link rel="stylesheet" href="/css/style.css" type="text/css">
+  <link rel="alternate" type="application/atom+xml" title="Recent Entries" href="/atom.xml">
+  <link rel="icon" href="/images/icon.png">
+  <script type="text/javascript" src="/js/jquery-1.7.1.min.js"></script>
+  <script type="text/javascript">
+        var BYB = {};
+  </script>
+  <script type="text/javascript">
+    BYB.includeScript = function(file,callback){
+    var _doc = document.getElementsByTagName('head')[0];
+    var js = document.createElement('script');
+    js.setAttribute('type', 'text/javascript');
+    js.setAttribute('src', file);
+    _doc.appendChild(js);
+    
+    if (!/*@cc_on!@*/0) { //if not IE
+    //Firefox2、Firefox3、Safari3.1+、Opera9.6+ support js.onload
+    js.onload = function () {
+    callback();
+    }
+    } else {
+    //IE6、IE7 support js.onreadystatechange
+    js.onreadystatechange = function () {
+    if (js.readyState == 'loaded' || js.readyState == 'complete') {
+    callback();
+    }
+    }
+    }
+    return false;
+    }
+    
+    //if(!window.jQuery){
+    //BYB.includeScript('http://beiyuu.com/js/jquery-1.7.1.min.js',BYB.readyFunction);
+    //}else{
+    //BYB.readyFunction();
+    //}
+  </script>
+</head>
+<body>
+<div class="banner">
+  <ul>
+    <li><a href="/">Home</a></li>
+    <li><a href="http://www.douban.com/people/JGuo/">Douban</a></li>
+    <li><a href="http://www.flickr.com/photos/soundbbg/">Flickr</a></li>
+    <li><a href="/about">About</a></li>
+    <li><a href="/feed.xml">Rss</a></li>
+  </ul>
+</div>
+
+<div class="comments">
+        <div id="disqus_thread"></div>
+        <script type="text/javascript">
+            /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+            var disqus_shortname = 'bbgtest'; // required: replace example with your forum shortname
+
+            /* * * DON'T EDIT BELOW THIS LINE * * */
+            (function() {
+                var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+                dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+                (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+            })();
+        </script>
+        <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+        <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+</div>
+
+<div class="footer">
+{{ site.copyright }}
+<script type="text/javascript" src="http://js.tongji.linezing.com/3009826/tongji.js"></script><noscript><a href="http://www.linezing.com"><img src="http://img.tongji.linezing.com/3009826/tongji.gif"/></a></noscript>
+</div>
+</body>
+</html>
