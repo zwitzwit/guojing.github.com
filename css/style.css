@@ -68,3 +68,5 @@ body {font:12px/1.6 arial,helvetica,sans-serif;margin:0;padding:0;color:#666}
 .next {float: right;}
 
 .douban {margin-right: 5px;}
+
+.disqus_container comment {margin-left: -10px}
