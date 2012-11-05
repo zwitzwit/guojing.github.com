@@ -1,5 +1,5 @@
 ---
 layout: one
-title: GuoJing's Blog 留言板
+title: 留言板
 ---
-aa
+有什么问题和疑惑，以及想联系我，你可以在这里留言。
