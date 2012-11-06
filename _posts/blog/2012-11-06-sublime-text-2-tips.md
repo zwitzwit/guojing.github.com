@@ -12,9 +12,11 @@ description: Sublime Text 2 Tips
 
 在多个分屏的区域上跳转，Mac OS上好像有问题，默认的是control+1、2、3、4，但是实际上你会发现这个并不能使用。解决方法只有修改键盘的绑定了。
 
-`Sublime Text 2` -> `Preferences` -> `Key Bindings - User` 里面修改，也可以在`Key Bindings - Default`里修改，我是直接把control改成了alt.
+`Sublime Text 2` -> `Preferences` -> `Key Bindings - User` 里面修改。
 
-也可以自己在文件中找，Mac OS下的文件地址在`~/Libary/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap`，其他的系统也有相应的文件。
+也可以在`Key Bindings - Default`里修改，我是直接在Default里把control改成了alt。
+
+也可以自己在文件中找，Mac OS下的文件地址在~/Libary/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap，其他的系统也有相应的文件。
 
 ### 记录轨迹
 
