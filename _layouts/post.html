@@ -42,15 +42,7 @@
   </script>
 </head>
 <body>
-<div class="banner">
-  <ul>
-    <li><a href="/">Home</a></li>
-    <li><a href="http://www.douban.com/people/JGuo/">Douban</a></li>
-    <li><a href="http://www.flickr.com/photos/soundbbg/">Flickr</a></li>
-    <li><a href="/about">About</a></li>
-    <li><a href="/guestbook">Guestbook</a></li>
-    <li><a href="/feed.xml">Rss</a></li>
-  </ul>
+{% include banner.html %}
 </div>
 <div class="main">
   <div class="title"><a href="{{ page.url }}">{{ page.title }}</a></div>
@@ -105,9 +97,7 @@
 });
 </script>
 
-<div class="footer">
-{{ site.copyright }}
-<script type="text/javascript" src="http://js.tongji.linezing.com/3009826/tongji.js"></script><noscript><a href="http://www.linezing.com"><img src="http://img.tongji.linezing.com/3009826/tongji.gif"/></a></noscript>
-</div>
+{% include footer.html %}
+
 </body>
 </html>
