@@ -5,11 +5,11 @@ pygments:         true
 paginate:         10
 permalink:        /:categories/:year/:month/:day/:title/
 
-title:            guojing.me
+title:            "GuoJing's Blog"
 url:              http://guojing.me
 feed:             /feed.xml
 author:
     name:         GuoJing
     twitter:      twitter.com/guojing
-description:      "GuoJing\'s Blog"
+description:      "只要心还跳"
 copyright:        "CopryRight GuoJing 2012-2012 by GitHub and Jekyll"
