@@ -14,7 +14,7 @@ description: Sublime Text 2 Tips
 
 `Sublime Text 2` -> `Preferences` -> `Key Bindings - User` 里面修改。
 
-也可以在`Key Bindings - Default`里修改，我是直接在Default里把control改成了alt。
+也可以在`Key Bindings - Default`里修改，我是直接在Default里把focus group这个快捷键从control改成了alt。不知道是哪个键，可以通过轨迹纪录来找。
 
 也可以自己在文件中找，Mac OS下的文件地址在~/Libary/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap，其他的系统也有相应的文件。
 
@@ -22,7 +22,7 @@ description: Sublime Text 2 Tips
 
 当你想要自己自定义快捷键的时候，又发现不知道该怎么用，比如我想自定义按shift+T就能插入某个字符的话，或者实现某个菜单的命令又不知道的话，可以用录制的方式。
 
-`View` -> `Show Console`可以打开命令模式，使用`sublime.log_commands(True)`命令可以记录你的一举一动，然后就可以自定义快捷键之类的了。
+`View` -> `Show Console`可以打开命令模式，使用`sublime.log_commands(True)`命令可以记录你的一举一动，然后就可以自定义快捷键之类的了。比如上面我的需求，我先纪录下来命令，然后再去Default里修改键位。
 
 [有关记录和绑定的官方文档](http://docs.sublimetext.info/en/latest/customization/key_bindings.html)
 
