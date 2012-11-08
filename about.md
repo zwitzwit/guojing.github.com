@@ -6,7 +6,7 @@ description: 关于我
 ---
 ### Friends
 
-[PuterJam's Blog](http://www.pjhome.net/) [Vimer的程序世界](http://http://www.vimer.cn/)
+[PuterJam's Blog](http://www.pjhome.net/) [Vimer的程序世界](http://www.vimer.cn/)
 
 ### About me
 
