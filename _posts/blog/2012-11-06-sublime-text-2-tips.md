@@ -8,7 +8,7 @@ description: Sublime Text 2 Tips
 
 对我来说编辑器最重要的是快捷键、命令输入、分屏和快速在几个分屏区域上跳转，Sublime确实做到了，但是总有一些小问题，这里搜集一些简单的tips，会陆续更新。
 
-### 快捷键
+### 快捷键 ###
 
 在多个分屏的区域上跳转，Mac OS上好像有问题，默认的是control+1、2、3、4，但是实际上你会发现这个并不能使用。解决方法只有修改键盘的绑定了。
 
@@ -18,7 +18,7 @@ description: Sublime Text 2 Tips
 
 也可以自己在文件中找，Mac OS下的文件地址在~/Libary/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap，其他的系统也有相应的文件。
 
-### 记录轨迹
+### 记录轨迹 ###
 
 当你想要自己自定义快捷键的时候，又发现不知道该怎么用，比如我想自定义按shift+T就能插入某个字符的话，或者实现某个菜单的命令又不知道的话，可以用录制的方式。
 
@@ -28,11 +28,13 @@ description: Sublime Text 2 Tips
 
 上面两个tips应该能够帮我们解决大部分的快捷键的问题。：）
 
-### 插件
+### 插件 ###
 
 插件开发可以用python，所以说python是最容易让人国际化的语言了，简单实用性能还ok，所以python应该多学习学习。
 
 插件目录可以放在`Packages/<插件名>/`下，或者通过`Tools` -> `New Plugin`创建一个新插件，通过`view.run_command("sample")`命令运行插件。
+
+[插件开发专门页](/blog/2012/11/09/sublime-text-2-plugins-tips/)
 
 [有关插件相关的官方文档](http://docs.sublimetext.info/en/latest/extensibility/plugins.html)
 
