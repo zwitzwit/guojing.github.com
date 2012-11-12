@@ -3,6 +3,7 @@ layout:     post
 title:      OmmWriter
 category: blog
 description: OmmWriter
+tags: ommwriter,writer,mac,ipad,iphone,apps
 ---
 OmmWriter是我喜欢的写作工具，这个工具极其简单，打开它，就是一个背景，伴随着悦耳的背景音乐。白色的、落雪的、什么都没有的背景和稍微带有神圣和神秘感的背景音乐，仿佛就可以开始让自己进入一种类似冥想的状态，开始思考，开始写作。
 
