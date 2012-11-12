@@ -5,7 +5,7 @@ category: blog
 description: 关于我
 ---
 
-### About me
+### 喂喂，这是我啊。 ###
 ![AboutMe](/images/about.jpg)
 
 このサイトは個人的な生活サイトです。日本語を勉強して、でもあまり上手ではありません、初心者です。何が間違、教えてください。亀が一番好きです。北京に住んでいます。
@@ -32,6 +32,12 @@ description: 关于我
 
 Nezsoft – A company working for Microsoft Search such like Live Search and Bing
 
-### Friends
+### 现负责 ###
+
+![豆瓣同城](http://img3.douban.com/pics/nav/lg_location_a10.png)
+
+豆瓣同城日常以及票务开发。
+
+### 友情链接 ###
 
 [PuterJam's Blog](http://www.pjhome.net/) [Vimer的程序世界](http://www.vimer.cn/)
