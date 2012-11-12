@@ -38,6 +38,6 @@ Nezsoft – A company working for Microsoft Search such like Live Search and Bin
 
 ### 现负责 ###
 
-<div style="text-align:left">
+<div class="img_left">
 <img src="http://img3.douban.com/pics/nav/lg_location_a10.png" title="豆瓣同城"/>
 </div>
