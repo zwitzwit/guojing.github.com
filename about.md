@@ -41,3 +41,8 @@ Nezsoft – A company working for Microsoft Search such like Live Search and Bin
 <div class="img_left">
 <img src="http://img3.douban.com/pics/nav/lg_location_a10.png" title="豆瓣同城"/>
 </div>
+
+* [豆瓣社区](http://www.douban.com)
+* [豆瓣读书](http://book.douban.com)
+* [豆瓣电影](http://movie.douban.com)
+* [豆瓣音乐](http://music.douban.com)
