@@ -4,11 +4,10 @@ title:      关于我
 category: blog
 description: 关于我
 ---
-### Friends
-
-[PuterJam's Blog](http://www.pjhome.net/) [Vimer的程序世界](http://www.vimer.cn/)
 
 ### About me
+
+![AboutMe](/images/about.jpg)
 
 このサイトは個人的な生活サイトです。日本語を勉強して、でもあまり上手ではありません、初心者です。何が間違、教えてください。亀が一番好きです。
 
@@ -33,3 +32,7 @@ description: 关于我
 2008-2009
 
 Nezsoft – A company working for Microsoft Search such like Live Search and Bing
+
+### Friends
+
+[PuterJam's Blog](http://www.pjhome.net/) [Vimer的程序世界](http://www.vimer.cn/)
