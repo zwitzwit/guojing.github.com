@@ -16,11 +16,11 @@ description: 关于我
 
 最近热爱生物、医学，不过也就是杂七杂八的读一点有的没的的东西，看热闹。现在正在养龟中，看一些养龟的Paper，希望借这些爱好能够开拓我的思路，让我更加理智，观察力更强。
 
-联系:
+### 联系 ###
 
-メール <soundbbg@gmail.com>
+メール <soundbbg@gmail.com> [Github](http://www.github.com/guojing) [新浪微博](http://weibo.com/soundbbg) [Tiwtter](https://twitter.com/guojing)
 
-[Github](http://www.github.com/guojing)
+### 工作 ###
 
 2009-NOW
 
