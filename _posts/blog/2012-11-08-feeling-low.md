@@ -2,7 +2,7 @@
 layout:     post
 title:      Low
 category: blog
-description: Feeling low
+description: 你终身将经受着柏油粘毛的折磨
 ---
 昨天晚上睡觉做了好长的梦，然后还是连续的，就是忽然朦朦胧胧的醒了又睡了之后，竟然是连续的。梦很伤心，早上刚醒来的时候我觉得意识清醒也觉得特别伤心，还有很沉重的难过，压在胸口。
 
