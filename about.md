@@ -16,8 +16,6 @@ description: 关于我
 
 最近热爱生物、医学，不过也就是杂七杂八的读一点有的没的的东西，看热闹。现在正在养龟中，看一些养龟的Paper，希望借这些爱好能够开拓我的思路，让我更加理智，观察力更强。
 
-现在在豆瓣打杂，豆瓣社区1年，后一直在豆瓣同城工作至今，负责票务开发，产品工程师一枚。
-
 联系:
 
 メール <soundbbg@gmail.com>
@@ -42,7 +40,4 @@ Nezsoft – A company working for Microsoft Search such like Live Search and Bin
 <img src="http://img3.douban.com/pics/nav/lg_location_a10.png" title="豆瓣同城"/>
 </div>
 
-* [豆瓣社区](http://www.douban.com)
-* [豆瓣读书](http://book.douban.com)
-* [豆瓣电影](http://movie.douban.com)
-* [豆瓣音乐](http://music.douban.com)
+现在在豆瓣打杂，豆瓣社区1年，后一直在豆瓣同城工作至今，负责票务开发，产品工程师一枚。
