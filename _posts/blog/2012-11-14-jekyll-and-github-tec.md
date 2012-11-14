@@ -84,6 +84,7 @@ Jekyll和Github做博客很爽，基本的需求也都可以满足，这里记�
 
 上面代码没有空格。
 
-### 代码sample ###
+### 代码&文档 ###
 
-[可以参考我的本网站的代码](https://github.com/GuoJing/guojing.github.com)。
+1. [可以参考我的本网站的代码](https://github.com/GuoJing/guojing.github.com)
+2. [Template Data](https://github.com/mojombo/jekyll/wiki/Template-Data)
