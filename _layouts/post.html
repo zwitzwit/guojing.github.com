@@ -69,6 +69,13 @@
 </div>
 </div>
 
+{% if page.music %}
+<audio src="/music/trip_128.mp3"></audio>
+{% endif%}
+
+{% if page.not_comment %}
+<div class="share clearfix"></div>
+{% else %}
 <div class="share clearfix">
 <div class="douban">
   <a href="http://9.douban.com/reader/subscribe?url=http://www.guojing.me" target="_blank"><img src="http://www.douban.com/pics/newnine/feedbutton1.gif"/></a>
@@ -82,10 +89,15 @@
 <script type="text/javascript" src="http://v3.jiathis.com/code_mini/jia.js?uid=1334822780652798" charset="utf-8"></script>
 <!-- JiaThis Button END -->
 </div>
+{% endif %}
 
 <div class="comments">
 <div id="disqus_container"> 
-    <a href="#" class="comment" onclick="return false;">点击评论或查看评论</a>
+    {% if page.not_comment %}
+    <span>该文章已关闭评论。</span>
+    {% else %}
+    <a href="#" class="comment" onclick="return false;">点击评论或查看评论。</a>
+    {% endif %}    
     <div id="disqus_thread"></div>
 </div>
 </div>
