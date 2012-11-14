@@ -21,7 +21,7 @@ Jekyll和Github做博客很爽，基本的需求也都可以满足，这里记�
 
 #### 日期 ####
 
-	page.date | date:"%Y年%m月%d日"
+	post.date | date:"%Y年%m月%d日"
 
 #### 分页输出 ####
 
@@ -47,22 +47,22 @@ Jekyll和Github做博客很爽，基本的需求也都可以满足，这里记�
 
 #### 显示页数的分页 ####
 
-	for page in (1..paginator.total_pages)
-		if page == paginator.page
+	for post in (1..paginator.total_pages)
+		if post == paginator.page
 			//is current page
 		else
-			"page" + page
+			"page" + post
 		endif
 	endfor
 
 #### 文章页显示上一篇和下一篇 ###
 
-	if page.previous
-		<a href="page.previous.url">page.previous.title</a>
+	if post.previous
+		<a href="page.previous.url">post.previous.title</a>
 	endif
 
-	if page.next
-		<a href="page.next.url">page.next.title</a>
+	if post.next
+		<a href="page.next.url">post.next.title</a>
 	endif
 
 ### 技巧 ###
@@ -83,3 +83,7 @@ Jekyll和Github做博客很爽，基本的需求也都可以满足，这里记�
 	{ % include xxx.html % }
 
 上面代码没有空格。
+
+### 代码sample ###
+
+[可以参考我的本网站的代码](https://github.com/GuoJing/guojing.github.com)。
