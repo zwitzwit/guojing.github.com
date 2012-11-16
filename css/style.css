@@ -31,6 +31,8 @@ body {font:12px/1.6 arial,helvetica,sans-serif;margin:0;padding:0;color:#666}
 .content a:link{padding:3px; text-shadow: 0 1px 0 white; -moz-border-radius:4px;-webkit-border-radius:4px;border-radius:4px;margin:0 2px;color:gray;text-decoration:none}
 .content a:hover {background:#4d4f51; padding:3px; color:white; text-shadow: 0 1px 0 black; -moz-border-radius:4px;-webkit-border-radius:4px;border-radius:4px;margin:0 2px}
 
+.content p strong {color:black;}
+
 .title {font-size:1.5em;font-weight:bolder;margin-bottom:10px;text-shadow:0 1px 0 #f0f0f0;}
 
 .content {margin-bottom:40px;background: rgba(255, 255, 255, 0.6);font-size:1.1em;}
