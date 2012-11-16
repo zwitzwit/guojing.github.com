@@ -18,7 +18,8 @@
 
 如何创建Github Pages并且写东西，而且是很geek的方法，请看:
 
-http://beiyuu.com/github-pages/
+1. [使用Github Pages建独立博客](http://beiyuu.com/github-pages/)
+2. [Jekyll常用函数和技巧](http://guojing.me/blog/2012/11/14/jekyll-and-github-tec/)
 
 ## 一些变量 ##
 
