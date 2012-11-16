@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-  <title>{{ site.title }}|{{ site.description }}</title>
+  <title>{{ page.title }}|{{ site.title }}</title>
   {% include header.html %}
 </head>
 <body>
@@ -12,7 +12,11 @@
 <div class="content">{{ content }}</div>
 </div>
 
+
+<div class="comments">
+{% include disqus.html %}
+</div>
+
 {% include footer.html %}
 </body>
 </html>
-

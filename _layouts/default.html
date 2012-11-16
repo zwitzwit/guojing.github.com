@@ -1,18 +1,15 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-  <meta charset="utf-8" />
   <title>{{ site.title }}|{{ site.description }}</title>
-  <link rel="stylesheet" href="/css/style.css" type="text/css">
-  <link rel="alternate" type="application/atom+xml" title="Recent Entries" href="/atom.xml">
-  <link rel="icon" href="/images/icon.png">
-  <meta content="GuoJing的个人博客，分享生活和代码，思考人生" name="description"/>
-  <meta content="代码,设计,思考,生活,人生" name="keywords"/>
+  {% include header.html %}
+  <meta content="{{ site.headdesc }}" name="description"/>
+  <meta content="{{ site.headkeys }}" name="keywords"/>
 </head>
 <body>
 {% include banner.html %}
 
-<div class="cast">只要心还跳...</div>
+<div class="cast">{{ site.description }}...</div>
 
 <div class="main">
 {{ content }}
