@@ -19,3 +19,18 @@
 如何创建Github Pages并且写东西，而且是很geek的方法，请看:
 
 http://beiyuu.com/github-pages/
+
+## 一些变量 ##
+
+在文章的头部有一些变量可以加，加了之后模板会有相应的展现。值为任何都行，只要有即可。
+
+1. not_comment 关闭评论
+2. private 私有日志
+
+tips: private私有日志只是预发布作用，实际上在github上还是可以看到的。
+
+## 一些工具 ##
+
+有一些工具快速帮你写日志。
+
+1. [Sublime Text 2快速写日志插件](https://github.com/GuoJing/SublimeText2Plugins/blob/master/Jkblogger.py)
