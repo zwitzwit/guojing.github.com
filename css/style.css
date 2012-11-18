@@ -55,8 +55,8 @@ body {font-family: "Overlock","Hiragino Sans GB","Microsoft YaHei",sans-serif}
 
 .center {text-align: center}
 
-::selection { background:#f8f9f9;}
-::-moz-selection { background:#f8f9f9;}
+::selection { background:transparent;}
+::-moz-selection { background:transparent;}
 
 .date {color:#CCCCCC;text-shadow:0 1px 0 white;font-size:12px;margin-bottom:10px;margin-left:5px;}
 
