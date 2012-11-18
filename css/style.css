@@ -1,10 +1,12 @@
 body {background: #e4e8e9 url('../images/bg.png');background-attachment: fixed;}
 body {font:12px/1.6 arial,helvetica,sans-serif;margin:0;padding:0;color:#666}
+body {font-family: "Overlock","Hiragino Sans GB","Microsoft YaHei",sans-serif}
 
 .main {width:642px;margin:40px auto;}
 .comments {width:635px;margin:35px auto;}
 .guide {width: 634px;margin: 0px auto;}
 
+.banner {font-family: "Overlock","Hiragino Sans GB","Microsoft YaHei",sans-serif}
 .banner {height:35px;margin:0px auto;}
 .banner ul {list-style:none;padding:8px 0px 0px 10px;margin:0px}
 .banner ul li {float:left; margin-right:15px}
@@ -33,9 +35,10 @@ body {font:12px/1.6 arial,helvetica,sans-serif;margin:0;padding:0;color:#666}
 
 .content p strong {color:black;}
 
-.title {font-size:1.5em;font-weight:bolder;margin-bottom:10px;text-shadow:0 1px 0 #f0f0f0;}
+.title {font-family: "Overlock","Hiragino Sans GB","Microsoft YaHei",sans-serif;}
+.title {font-size:1.7em;margin-bottom:10px;text-shadow:0 1px 0 #f0f0f0;}
 
-.content {margin-bottom:40px;background: rgba(255, 255, 255, 0.6);font-size:1.1em;}
+.content {margin-bottom:40px;background: rgba(255, 255, 255, 0.6);font-size:14px;}
 .content {color:#626262; text-shadow:0 1px 0 white;}
 .content b{color:#5c5c5c;}
 .content {padding:15px;line-height: 2em;}
@@ -57,7 +60,7 @@ body {font:12px/1.6 arial,helvetica,sans-serif;margin:0;padding:0;color:#666}
 
 .date {color:#CCCCCC;text-shadow:0 1px 0 white;font-size:12px;margin-bottom:10px;margin-left:5px;}
 
-.content:first-letter{font-size:20px}
+.content:first-letter{font-size:30px;padding-right: 3px; color: #2b2b2b}
 
 .center{text-align:center}
 
@@ -70,7 +73,7 @@ body {font:12px/1.6 arial,helvetica,sans-serif;margin:0;padding:0;color:#666}
 .content img{margin:0px auto;display:block;max-width:600px}
 .img_left img{margin:0px;}
 
-.cast {color:#CCCCCC;text-shadow:0 1px 0 white;font-size:12px;margin:10px auto;width:643px;margin-bottom: -25px;padding-left: 5px;}
+.cast {color:#CCCCCC;text-shadow:0 1px 0 white;font-size:12px;margin:20px auto;width:643px;margin-bottom: -25px;padding-left: 5px;}
 .previous {float: left;}
 .next {float: right;}
 
@@ -82,3 +85,7 @@ pre {padding:10px; background:white; text-shadow:0 1px 0 white; -moz-border-radi
 pre code {background: white; border: none; margin: -3px; box-shadow: none}
 blockquote {font-style: italic; background-image: url('../images/block.png'); background-repeat: no-repeat; background-position: left top; padding-left: 25px; margin-left: 20px; background-color: transparent;}
 
+.archive {list-style: none; padding: 0px}
+.archive li {padding: 0px}
+.archive li time {color:#989990;}
+.archive .year {color: black; font-weight: bold;}
