@@ -89,3 +89,6 @@ blockquote {font-style: italic; background-image: url('../images/block.png'); ba
 .archive li {padding: 0px}
 .archive li time {color:#989990;}
 .archive .year {color: black; font-weight: bold;}
+
+.eof img{margin: 0px}
+.forb {font-size: 12px; color: #b2b2b2; text-align: right}
