@@ -3,7 +3,7 @@ layout:    post
 title:     必须有个结局
 category:  blog
 description: 任何故事，只要开始写了，都必须有个结局...
-tags: 必须有个结局,life,code
+tags: life code story
 ---
 刚刚入冬不久，北京就迎来了第二场雪。下雪的时候，我刚刚和同事们吃完饭出来，从立水桥的B口出来，停车场的大妈趁着这个时机在地铁口卖雨伞，看到我，给我点点头笑了笑打了个招呼，我则搓了搓手微笑示意。
 

@@ -1,9 +1,9 @@
 ---
 layout:     post
 title:      Sublime Text 2 Tips
-category: blog
+category: tec
 description: Sublime Text 2 Tips
-tags: sublime,sublime text,tips,plugin,dev
+tags: sublime tips plugin dev
 ---
 最近尝试使用Sublime Text 2这款大家都说很好用的新编辑器里的神器。虽然我自己一般使用vim或emacs而且每款编辑器都用了不短的时间了，但是还是对这种被开发者叫为神器的编辑器很好奇，最近尝试了一下，总体来说还是不错的。
 

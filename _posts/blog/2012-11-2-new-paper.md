@@ -3,7 +3,7 @@ layout:     post
 title:      New Paper
 category: blog
 description: New Paper
-tags: paper,apps,share,推荐,app推荐
+tags: paper apps share 推荐 app推荐
 ---
 Paper的确iPad上最好用的速记软件，当然也有一些局限性了，但是软件的局限性不可能限制人的创造力，新的Paper就很赞，Paper这次更新增加了多个颜色，并且增加了混合器，现在颜色更多更好用了。
 

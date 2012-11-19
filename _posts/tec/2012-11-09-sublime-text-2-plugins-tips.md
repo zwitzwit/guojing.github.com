@@ -1,9 +1,9 @@
 ---
 layout:    post
 title:     Sublime Text 2插件开发Tips
-category:  blog
+category:  tec
 description: Sublime Text 2插件开发Tips
-tags: sublime,text,plugin,tips,simple,step by step
+tags: sublime text plugin tips simple
 ---
 用了几天Jekyll和Github搭建和写博客，觉得很爽，因为Jekyll支持的是Markdown，而Markdown又很简单，又是文件存储，非常的爽，不需要数据库，还可以备份和同步到Dropbox。不仅仅如此，这个世界世界上基于Jekyll开发并提供免费host的服务商太多了，ruhoh就是一个，你仅仅需要把你的静态文件移过去即可。
 

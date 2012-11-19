@@ -1,9 +1,9 @@
 ---
 layout:    post
 title:     Jekyll常用函数和技巧
-category:  blog
+category:  tec
 description: Jekyll小技巧...
-tags: jekyll,life,code,github
+tags: jekyll life code github tips dev
 ---
 Jekyll和Github做博客很爽，基本的需求也都可以满足，这里记录一些小技巧，留有以后可以查看，说不定也可以帮助后来的人。
 
