@@ -59,6 +59,7 @@ body {font-family: "Overlock","Hiragino Sans GB","Microsoft YaHei",sans-serif}
 ::-moz-selection { background:transparent;}
 
 .date {color:#CCCCCC;text-shadow:0 1px 0 white;font-size:12px;margin-bottom:10px;margin-left:5px;}
+.date {text-transform: uppercase;}
 
 .content:first-letter{font-size:30px;padding-right: 3px; color: #2b2b2b}
 
