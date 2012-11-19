@@ -18,7 +18,7 @@ description: 关于我
 
 ### 联系 ###
 
-メール <soundbbg@gmail.com> [Github](http://www.github.com/guojing) [新浪微博](http://weibo.com/soundbbg) [Tiwtter](https://twitter.com/guojing)
+Gmail <soundbbg@gmail.com> [豆瓣](http://www.douban.com/people/JGuo/) [Github](http://www.github.com/guojing) [新浪微博](http://weibo.com/soundbbg) [Tiwtter](https://twitter.com/guojing)
 
 ### 工作 ###
 
