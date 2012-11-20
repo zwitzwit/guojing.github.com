@@ -3,7 +3,7 @@ layout:    post
 title:     Jekyll Tags Categories Archive 实现
 category:  tec
 description: Jekyll Tags Categories Archive的简单实现...
-tags: Jekyll Tags Categories Archive 实现 code
+tags: jekyll tags categories archive 实现 code
 ---
 最近研究了一下Jekyll的Tags、Categories和Archive实现，官方文档里写的很模糊，但仔细看还是能看出倪端，YAML格式的数据说简单也简单，但整起来还是有点麻烦的，直接上代码吧。
 
