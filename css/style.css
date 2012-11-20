@@ -1,5 +1,5 @@
 body {background: #e4e8e9 url('../images/bg.png');background-attachment: fixed;}
-body {font-size:12px/1.6;margin:0;padding:0;color:#666}
+body {font:12px/1.6 arial,helvetica,sans-serif;margin:0;padding:0;color:#666}
 body {font-family: "Overlock","Hiragino Sans GB","Microsoft YaHei",sans-serif}
 
 .main {width:642px;margin:40px auto;}
