@@ -4,7 +4,7 @@ title: Categories
 ---
 这里也许有：
 
-<div class="tagcloud upper">
+<div class="tagcloud upper gray">
 {% for cat in site.categories %}
 <a href="#{{ cat[0] }}">{{ cat[0] }}</a>
 {% endfor %}

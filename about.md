@@ -30,10 +30,6 @@ Gmail <soundbbg@gmail.com> [豆瓣](http://www.douban.com/people/JGuo/) [Github]
 
 Nezsoft – A company working for Microsoft Search such like Live Search and Bing
 
-### 友情链接 ###
-
-[PuterJam's Blog](http://www.pjhome.net/) [Vimer的程序世界](http://www.vimer.cn/)
-
 ### 现负责 ###
 
 <div class="img_left">
