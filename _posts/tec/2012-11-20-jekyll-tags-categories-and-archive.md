@@ -49,6 +49,6 @@ Archive稍微有些不同，需要定义一个变量，循环所有文章，并�
 
 这里面有参考官方的sample和代码，具体这几个文件可以参考我的Github。
 
-1. [Tags](https://github.com/GuoJing/guojing.github.com/blob/master/tags.html)
-2. [Categories](https://github.com/GuoJing/guojing.github.com/blob/master/categories.html)
-3. [Archive](https://github.com/GuoJing/guojing.github.com/blob/master/archive.html)
+1. [Tags](https://github.com/GuoJing/guojing.github.com/blob/master/tags.md)
+2. [Categories](https://github.com/GuoJing/guojing.github.com/blob/master/categories.md)
+3. [Archive](https://github.com/GuoJing/guojing.github.com/blob/master/archive.md)
