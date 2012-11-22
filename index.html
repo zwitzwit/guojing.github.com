@@ -11,6 +11,11 @@ title: GuoJing's Blog|只要心还跳
 <div class="date">记于{{ post.date | date:"%Y年%m月%d日"}} {{ post.categories }}</div>
 <div class="content">
 {{ post.content }}
+<p class="forb">
+	{% for tag in post.tags %}
+     <a href="/tags.html#{{ tag }}">#{{ tag }}</a>
+     {% endfor %}
+</p>
 </div>
 {% endif %}
 {% endfor %}
