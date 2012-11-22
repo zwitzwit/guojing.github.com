@@ -46,11 +46,15 @@
 
 <div class="main">
   <div class="title"><a href="{{ page.url }}">{{ page.title }}</a></div>
-  <div class="date">记于{{ page.date | date:"%Y年%m月%d日"}}</div>
+  <div class="date">记于{{ page.date | date:"%Y年%m月%d日"}} {{ page.categories }}</div>
   <div class="content">
     {{ content }}
     <p>-- EOF --</p>
-    <p class="forb">Copyright GuoJing 未经允许严禁转载。</p>
+    <p class="forb">
+      {% for tag in page.tags %}
+      <a href="/tags.html#{{ tag }}">#{{ tag }}</a>
+      {% endfor %} <br/> Copyright GuoJing 未经允许，严禁转载。
+    </p>
   </div>
 </div>
 
