@@ -1,4 +1,4 @@
-body {background: #e4e8e9 url('../images/bg.png');background-attachment: fixed;}
+body {background: #e4e8e9 url('../images/theme/bg.png');background-attachment: fixed;}
 body {font:12px/1.6 arial,helvetica,sans-serif;margin:0;padding:0;color:#666}
 body {font-family: "Overlock","Hiragino Sans GB","Microsoft YaHei",sans-serif}
 
@@ -84,7 +84,7 @@ code {border:1px solid #ccc; background:white; padding:3px 5px; margin:0 3px;-mo
 
 pre {padding:10px; background:white; text-shadow:0 1px 0 white; -moz-border-radius:4px;-webkit-border-radius:4px;border-radius:4px;}
 pre code {background: white; border: none; margin: -7px; box-shadow: none; font-family: helvetica;}
-blockquote {font-style: italic; background-image: url('../images/block.png'); background-repeat: no-repeat; background-position: left top; padding-left: 25px; margin-left: 20px; background-color: transparent;}
+blockquote {font-style: italic; background-image: url('../images/theme/block.png'); background-repeat: no-repeat; background-position: left top; padding-left: 25px; margin-left: 20px; background-color: transparent;}
 
 .archive {list-style: none; padding: 0px}
 .archive li {padding: 0px}
