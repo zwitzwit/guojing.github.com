@@ -9,3 +9,15 @@
     <li><a href="/feed.xml">Feed</a></li>
   </ul>
 </div>
+
+<script>
+$(document).ready(function(){
+	$('a').hover(
+		function(){
+			$(this).animate({opacity: 0.3}, 400)
+		}, 
+		function(){
+			$(this).animate({opacity: 1}, 400)
+		});
+})
+</script>
