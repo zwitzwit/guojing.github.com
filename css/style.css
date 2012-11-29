@@ -79,7 +79,7 @@ body {font-family: "Overlock","Hiragino Sans GB","Microsoft YaHei",sans-serif}
 
 .jiathis_style {float:right}
 
-.content img{margin:0px auto;display:block;max-width:600px}
+.content img{margin:0px auto;display:block;max-width:600px;margin-top: 10px; margin-bottom: 10px}
 .img_left img{margin:0px;}
 
 .cast {color:#CCCCCC;text-shadow:0 1px 0 white;font-size:12px;margin:20px auto;width:643px;margin-bottom: -25px;padding-left: 5px;}
