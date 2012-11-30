@@ -8,7 +8,6 @@ Python工程师，伪设计师，只思考不负责。网名目前叫放开那�
 
 ### 联系 ###
 
-* <soundbbg@gmail.com>
 * [豆瓣](http://www.douban.com/people/JGuo/)
 * [Github](http://www.github.com/guojing)
 * [新浪微博](http://weibo.com/soundbbg)
