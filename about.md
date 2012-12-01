@@ -6,6 +6,10 @@ description: 关于我
 ---
 Python工程师，伪设计师，只思考不负责。网名目前叫放开那个西红柿，武汉人，09年毕业，08年已到北京，现定居北京。目前服务于豆瓣的同城业务，打杂。
 
+### 项目 ###
+
+* PasswordSaver
+
 ### 联系 ###
 
 * [豆瓣](http://www.douban.com/people/JGuo/)
