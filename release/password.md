@@ -10,3 +10,10 @@ Working on it, It's not release now.
 It's a really simple password save tool, **free** and **open source**, if you like it or wanner a better feature, please donate the app through App Store.
 
 Fork me! [Git Hub Page](https://github.com/GuoJing/PasswordSaver)
+
+#### Todo List####
+
+##### V0.2.1 #####
+
+1. auto gen kKey when first load.
+2. sync the file to dropbox.
