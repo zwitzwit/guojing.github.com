@@ -5,6 +5,8 @@ description: A simple password save tool!
 ---
 Working on it, It's not release now.
 
-I'm working on it.
+![PasswordSaver](/images/icons/pws.png)
 
-[Git Hub Page](https://github.com/GuoJing/PasswordSaver)
+It's a really simple password save tool, **free** and **open source**, if you like it or wanner a better feature, please donate the app through App Store.
+
+Fork me! [Git Hub Page](https://github.com/GuoJing/PasswordSaver)
