@@ -8,7 +8,7 @@ Python工程师，伪设计师，只思考不负责。网名目前叫放开那�
 
 ### 项目 ###
 
-* PasswordSaver
+* [PasswordSaver](/release/password.html)
 
 ### 联系 ###
 
