@@ -15,5 +15,5 @@ Fork me! [Github Page](https://github.com/GuoJing/PasswordSaver)
 
 ##### V0.2.1 #####
 
-1. auto gen kKey when first load.
+~~1. auto gen kKey when first load.~~
 2. sync the file to dropbox.
