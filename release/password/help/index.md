@@ -3,7 +3,7 @@ layout:     page
 title:      PasswordSaver
 description: A simple password save tool!
 ---
-Thanks for installing PasswordSaver:
+Thanks for install PasswordSaver:
 
 ![PasswordSaver](/images/icons/pws.png)
 
