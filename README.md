@@ -1,3 +1,7 @@
+## 下载 ##
+
+[干净博客版下载](https://github.com/GuoJing/guojing.github.com/downloads)
+
 ## 关于 ##
 
 这是我的博客，你可以fork我的代码，从我的代码里面你可以轻松的创建一个博客。也就是说，你可以fork然后直接用我的皮肤。
