@@ -5,4 +5,9 @@ description: This is a Sample Code of DoubanAPICocoa Sample
 ---
 Click Link below:
 
-<a href="guojingsample://success">Load</a>
+<a id="samplecode" href="#">Load</a>
+
+<script>
+var code = getURLParameter("code");
+$("#samplecode").attr("href", "guojingsample://success?code=" + code);
+</script>
