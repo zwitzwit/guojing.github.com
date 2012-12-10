@@ -9,5 +9,5 @@ Click Link below:
 
 <script>
 var code = getURLParameter("code");
-$("#samplecode").attr("href", "guojingsample://code=" + code);
+$("#samplecode").attr("href", "guojingsample://?code=" + code);
 </script>
