@@ -1,6 +1,6 @@
 ---
 layout:    post
-title:     Douban OSX Framework
+title:     Douban OS X Framework
 category:  tec
 description: OSX Frameowork for Douban...
 tags: douban framework cocoa osx mac
