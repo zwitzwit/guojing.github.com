@@ -48,6 +48,7 @@ body {font-family: "Overlock","Hiragino Sans GB","Microsoft YaHei",sans-serif}
 .content {color:#626262; text-shadow:0 1px 0 white;}
 .content b{color:#5c5c5c;}
 .content {padding:15px;line-height: 2.3em;}
+.content p{margin-bottom: 20px;}
 
 .footer, .paginator{font-size:12px; text-shadow:0 1px 0 white;text-align:center;margin-top:-10px;margin-bottom:25px;color:#b2b2b2;}
 
