@@ -6,3 +6,4 @@ description: Public Projects
 Public Projects I'm working on.
 
 * [PasswordSaver](/release/password/)
+* [DoubanAPICocoa](https://github.com/GuoJing/DoubanAPICocoa)
