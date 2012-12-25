@@ -5,7 +5,7 @@ category: blog
 description: メリークリスマス！
 tags: 生活 クリスマス merry christmas
 ---
-圣诞。
+又是一年的圣诞。
 
 ![Gift](/images/2012/love.jpg)
 
