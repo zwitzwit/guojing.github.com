@@ -83,7 +83,7 @@ body {font-family: "Overlock","Hiragino Sans GB","Microsoft YaHei",sans-serif}
 .content img{margin:0px auto;display:block;max-width:765px;margin-top: 10px; margin-bottom: 10px}
 .img_left img{margin:0px;}
 
-.cast {color:#CCCCCC;text-shadow:0 1px 0 white;font-size:12px;margin:40px auto;width:800px;margin-bottom: -25px;padding-left: 5px;}
+.cast {color:#CCCCCC;text-shadow:0 1px 0 white;font-size:12px;margin:25px auto;width:800px;margin-bottom: -25px;padding-left: 5px;}
 .previous {float: left;}
 .next {float: right;}
 
