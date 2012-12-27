@@ -2,7 +2,7 @@ body {background: #e4e8e9 url('../images/theme/bg.png');background-attachment: f
 body {font:12px/1.6 arial,helvetica,sans-serif;margin:0;padding:0;color:#666}
 body {font-family: "Overlock","Hiragino Sans GB","Microsoft YaHei",sans-serif}
 
-.main {width:642px;margin:40px auto;}
+.main {width:800px;margin:40px auto;}
 .comments {width:635px;margin:35px auto;}
 .guide {width: 634px;margin: 0px auto;}
 
@@ -80,10 +80,10 @@ body {font-family: "Overlock","Hiragino Sans GB","Microsoft YaHei",sans-serif}
 
 .jiathis_style {float:right}
 
-.content img{margin:0px auto;display:block;max-width:600px;margin-top: 10px; margin-bottom: 10px}
+.content img{margin:0px auto;display:block;max-width:765px;margin-top: 10px; margin-bottom: 10px}
 .img_left img{margin:0px;}
 
-.cast {color:#CCCCCC;text-shadow:0 1px 0 white;font-size:12px;margin:20px auto;width:643px;margin-bottom: -25px;padding-left: 5px;}
+.cast {color:#CCCCCC;text-shadow:0 1px 0 white;font-size:12px;margin:20px auto;width:800px;margin-bottom: -25px;padding-left: 5px;}
 .previous {float: left;}
 .next {float: right;}
 
