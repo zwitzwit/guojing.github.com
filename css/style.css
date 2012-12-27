@@ -8,7 +8,7 @@ body {font-family: "Overlock","Hiragino Sans GB","Microsoft YaHei",sans-serif}
 
 .banner {position: fixed; z-index: 9999; width: 100%; top: 0; left: 0; border-bottom: 1px #FAFAFA;}
 .banner {font-family: "Overlock","Hiragino Sans GB","Microsoft YaHei",sans-serif; font-size: 13px;}
-.banner {height:35px;margin:0px auto;background: rgba(255, 255, 255, 0.8);}
+.banner {height:35px;margin:0px auto;background: rgba(255, 255, 255, 0.5);}
 .banner ul {list-style:none;padding:8px 0px 0px 10px;margin:0px}
 .banner ul li {float:left; margin-right:15px}
 
