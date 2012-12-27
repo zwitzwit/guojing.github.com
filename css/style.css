@@ -2,12 +2,12 @@ body {background: #e4e8e9 url('../images/theme/bg.png');background-attachment: f
 body {font:12px/1.6 arial,helvetica,sans-serif;margin:0;padding:0;color:#666}
 body {font-family: "Overlock","Hiragino Sans GB","Microsoft YaHei",sans-serif}
 
-.main {width:800px;margin:40px auto;}
+.main {width:800px;margin:65px auto;}
 .comments {width:800px;margin:35px auto;}
 .guide {width: 800px;margin: 0px auto;}
 
 .banner {font-family: "Overlock","Hiragino Sans GB","Microsoft YaHei",sans-serif; font-size: 13px;}
-.banner {height:35px;margin:3px auto;}
+.banner {height:35px;margin:0px auto;background: white; position: fixed; opacity: 0.7;}
 .banner ul {list-style:none;padding:8px 0px 0px 10px;margin:0px}
 .banner ul li {float:left; margin-right:15px}
 
