@@ -6,7 +6,7 @@ body {font-family: "Overlock","Hiragino Sans GB","Microsoft YaHei",sans-serif}
 .comments {width:799px;margin:35px auto;}
 .guide {width: 800px;margin: 0px auto;}
 
-.banner {position: fixed; z-index: 9999; width: 100%; top: 0; left: 0; border-bottom: 1px #FAFAFA;}
+.banner {z-index: 9999; width: 100%; top: 0; left: 0; border-bottom: 1px #FAFAFA;}
 .banner {font-family: "Overlock","Hiragino Sans GB","Microsoft YaHei",sans-serif; font-size: 13px;}
 .banner {height:35px;margin:0px auto;background: rgba(255, 255, 255, 0.5);}
 .banner ul {list-style:none;padding:8px 0px 0px 10px;margin:0px}
@@ -84,7 +84,7 @@ body {font-family: "Overlock","Hiragino Sans GB","Microsoft YaHei",sans-serif}
 .content img{margin:0px auto;display:block;max-width:765px;margin-top: 10px; margin-bottom: 10px}
 .img_left img{margin:0px;}
 
-.cast {color:#CCCCCC;text-shadow:0 1px 0 white;font-size:12px;margin:65px auto;width:800px;margin-bottom: -40px;padding-left: 5px;}
+.cast {color:#CCCCCC;text-shadow:0 1px 0 white;font-size:12px;margin:45px auto;width:800px;margin-bottom: -40px;padding-left: 5px;}
 .previous {float: left;}
 .next {float: right;}
 
