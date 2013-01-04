@@ -3,7 +3,7 @@ layout:    post
 title:     Time Capsule
 category:  share
 description: Time Capsule...
-tags: time capsule air video play home media center download free share icloud
+tags: time capsule air video play home media center
 ---
 前些日子换了一个SSD，让自己开发效率变得更高，速度变得更快，很方便也很实用。但是按照SSD的技术来说，现在的SSD价格还是偏贵的，所以磁盘的容量小，一般也就只有128G，所以很多东西没办法存在电脑里。所以当平时拍照纪念成为负担的时候，就得想办法来解决这个问题。家庭媒体中心就是一个很好的解决办法。在买之前看了很多帖子想了很多其他的解决办法，最后还是买了[Time Capsule](http://www.apple.com.cn/timecapsule/)。
 
