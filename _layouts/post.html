@@ -1,5 +1,5 @@
 <!DOCTYPE HTML>
-<html>
+<html xmlns:wb=“http://open.weibo.com/wb”>
 <head>
   <title>{{ page.title }}|{{ site.title }}</title>
   {% include header.html %}
@@ -38,6 +38,10 @@
   </script>
   <meta content="{{ page.description }}" name="description"/>
   <meta content="{{ page.tags }},{{ page.title }}" name="keywords"/>
+  <meta property="og:type" content="article" />
+  <meta property="og:url" content="{{ site.url }}/{{ page.url }}" />
+  <meta property="og:title" content="{{ page.title }}" />
+  <meta property="og:description" content="{{ page.description }}" />
 </head>
 <body>
 {% include banner.html %}
@@ -46,10 +50,15 @@
 
 <div class="main">
   <div class="title"><a href="{{ page.url }}">{{ page.title }}</a></div>
-  <div class="date">记于{{ page.date | date:"%Y年%m月%d日"}} <a href="/categories/#{{ post.categories }}">{{ post.categories }}</a></div>
+  <div class="date">记于{{ page.date | date:"%Y年%m月%d日"}} <a href="/categories/#{{ post.categories }}">{{ page.categories }}</a></div>
   <div class="content">
     {{ content }}
-    <p>-- EOF --</p>
+    <p class="clearfix">-- EOF --</p>
+    <p class="clearfix"><wb:like type="number"></wb:like></p>
+    <style>
+    .WB_praise .praise_data {margin-top: 3px; border: 1px dashed #ccc; background: white}
+    .WB_praise {float:right;}
+    </style>
     <p class="forb">
       {% for tag in page.tags %}
       <a href="/tags/#{{ tag }}">#{{ tag }}</a>
