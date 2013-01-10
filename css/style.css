@@ -43,9 +43,9 @@ body {font-family: "Overlock","Hiragino Sans GB","Microsoft YaHei",sans-serif}
 .content p strong {color:black;}
 
 .title {font-family: "Overlock","Hiragino Sans GB","Microsoft YaHei",sans-serif;}
-.title {font-size:1.7em;margin-bottom:20px;text-shadow:0 1px 0 #f0f0f0;}
+.title {font-size:16px;margin-bottom:20px;text-shadow:0 1px 0 #f0f0f0;}
 
-.content {margin-bottom:50px;background: rgba(255, 255, 255, 0.6);font-size:14px;}
+.content {margin-bottom:30px;background: rgba(255, 255, 255, 0.6);font-size:13px;}
 .content {color:#626262; text-shadow:0 1px 0 white;}
 .content b{color:#5c5c5c;}
 .content {padding:15px;line-height: 2.3em;}
@@ -97,13 +97,16 @@ pre {padding:10px; background:white; text-shadow:0 1px 0 white; -moz-border-radi
 pre code {background: white; border: none; margin: -7px; box-shadow: none; font-family: helvetica;}
 blockquote {font-style: italic; background-image: url('../images/theme/block.png'); background-repeat: no-repeat; background-position: left top; padding-left: 25px; margin-left: 20px; background-color: transparent;}
 
+.intro {padding-left: 10px; font-size: 12px; margin-bottom: 20px; font-weight: bolder;}
+.more .title{font-size: 10px; padding-left: 10px}
+
 .archive {list-style: none; padding: 0px}
 .archive li {padding: 0px}
 .archive li time {color:#989990;}
 .archive .year {color: black; font-weight: bold; text-transform: uppercase; margin: 10px 0px;}
 
 .eof img{margin: 0px}
-.forb {font-size: 12px; color: #b2b2b2; text-align: right}
+.forb {font-size: 12px; color: #b2b2b2; text-align: right; margin-bottom: 20px}
 .upper {text-transform: uppercase;}
 .tagcloud {margin-top: 10px}
 
