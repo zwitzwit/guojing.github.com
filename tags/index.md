@@ -3,7 +3,7 @@ layout:  page
 title: Tags
 description: Tags
 ---
-这里也许有：
+散落的贝壳，像海的记忆：
 
 <div class="tagcloud">
 {% for tag in site.tags %}

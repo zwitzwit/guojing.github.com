@@ -3,7 +3,7 @@ layout:  page
 title: Archive
 description: Archive
 ---
-这里也许有：
+即将来临的一天，比过去的一年更为悠长：
 
 <ul class="archive">
 {% for post in site.posts %}

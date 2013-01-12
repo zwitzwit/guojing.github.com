@@ -3,7 +3,7 @@ layout:  page
 title: Categories
 description: Categories
 ---
-这里也许有：
+不要为已消尽之年华叹息，必须正视匆匆溜走的时光：
 
 <div class="tagcloud upper gray">
 {% for cat in site.categories %}
