@@ -1,5 +1,6 @@
 <!DOCTYPE HTML>
-<html xmlns:wb=“http://open.weibo.com/wb”>
+<!-- <html xmlns:wb=“http://open.weibo.com/wb”> -->
+<html>
 <head>
   <title>{{ page.title }}|{{ site.title }}</title>
   {% include header.html %}
@@ -54,13 +55,13 @@
   <div class="content">
     {{ content }}
     <p class="clearfix">-- EOF --</p>
-    <p class="clearfix"><wb:like type="number"></wb:like></p>
+<!--     <p class="clearfix"><wb:like type="number"></wb:like></p>
     <style>
     .WB_praise .praise_data {margin-top: 3px; border: 1px dashed #ccc; background: white}
     .WB_praise {float:right;}
     .WB_praise .praise_data .data_arrow {display: none}
     </style>
-  </div>
+ -->  </div>
   <div class="forb">
   {% for tag in page.tags %}
   <a href="/tags/#{{ tag }}">#{{ tag }}</a>
