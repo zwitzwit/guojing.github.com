@@ -2,9 +2,9 @@ body {background: #e4e8e9 url('../images/theme/bg.png');background-attachment: f
 body {font:12px/1.6 arial,helvetica,sans-serif;margin:0;padding:0;color:#666}
 body {font-family: "Overlock","Hiragino Sans GB","Microsoft YaHei",sans-serif}
 
-.main {width:633px;margin:65px auto;}
-.comments {width:632px;margin:35px auto;}
-.guide {width: 633px;margin: 0px auto;}
+.main {width:700px;margin:65px auto;}
+.comments {width:699px;margin:35px auto;}
+.guide {width: 700px;margin: 0px auto;}
 
 .banner {z-index: 9999; width: 100%; top: 0; left: 0; border-bottom: 1px #FAFAFA;}
 .banner {font-family: "Overlock","Hiragino Sans GB","Microsoft YaHei",sans-serif; font-size: 12px;}
@@ -18,9 +18,9 @@ body {font-family: "Overlock","Hiragino Sans GB","Microsoft YaHei",sans-serif}
 .banner a:hover{background:#4d4f51; padding:3px; color:white; text-shadow: 0 1px 0 black; -moz-border-radius:4px;-webkit-border-radius:4px;border-radius:4px;margin:0 2px;}
 */
 
-.comments .comment {font-size: 13px;}
+.comments .comment {font-size: 12px;}
 
-.guide {font-size: 13px}
+.guide {font-size: 12px}
 .guide a:link{color:rgb(85, 85, 85);text-decoration:none;text-shadow:0px 1px 0px white; padding:3px;margin:0 2px}
 .guide a:visited{color:rgb(85, 85, 85);text-decoration:none;text-shadow:0px 1px 0px white;}
 /*.guide a:hover{background:#4d4f51; padding:3px; color:white; text-shadow: 0 1px 0 black; -moz-border-radius:4px;-webkit-border-radius:4px;border-radius:4px;margin:0 2px;}*/
@@ -82,7 +82,7 @@ body {font-family: "Overlock","Hiragino Sans GB","Microsoft YaHei",sans-serif}
 
 .jiathis_style {float:right}
 
-.content img{margin:0px auto;display:block;max-width:600px;margin-top: 10px; margin-bottom: 10px}
+.content img{margin:0px auto;display:block;max-width:659px;margin-top: 10px; margin-bottom: 10px; border: 1px dashed #ccc; padding:3px;}
 .img_left img{margin:0px;}
 
 .cast {color:#CCCCCC;text-shadow:0 1px 0 white;font-size:12px;margin:45px auto;width:633px;margin-bottom: -40px;padding-left: 5px;}
