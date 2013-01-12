@@ -4,7 +4,7 @@ body {font-family: "Overlock","Hiragino Sans GB","Microsoft YaHei",sans-serif}
 
 .main {width:700px;margin:65px auto;}
 .comments {width:699px;margin:35px auto;}
-.guide {width: 700px;margin: 0px auto;}
+.guide {width: 700px;margin: -40px auto;}
 
 .banner {z-index: 9999; width: 100%; top: 0; left: 0; border-bottom: 1px #FAFAFA;}
 .banner {font-family: "Overlock","Hiragino Sans GB","Microsoft YaHei",sans-serif; font-size: 12px;}
@@ -52,6 +52,7 @@ body {font-family: "Overlock","Hiragino Sans GB","Microsoft YaHei",sans-serif}
 .content p{margin-bottom: 20px;}
 
 .footer, .paginator{font-size:12px; text-shadow:0 1px 0 white;text-align:center;margin-top:-10px;margin-bottom:25px;color:#b2b2b2;}
+.footer {margin-top: 60px}
 
 .paginator a:link{color:rgb(85, 85, 85);text-decoration:none;text-shadow:0px 1px 0px white; padding:3px;margin:0 2px}
 .paginator a:visited{color:rgb(85, 85, 85);text-decoration:none;text-shadow:0px 1px 0px white;}
@@ -85,7 +86,7 @@ body {font-family: "Overlock","Hiragino Sans GB","Microsoft YaHei",sans-serif}
 .content img{margin:0px auto;display:block;max-width:659px;margin-top: 10px; margin-bottom: 10px; border: 1px dashed #ccc; padding:3px;}
 .img_left img{margin:0px;}
 
-.cast {color:#CCCCCC;text-shadow:0 1px 0 white;font-size:12px;margin:45px auto;width:633px;margin-bottom: -40px;padding-left: 5px;}
+.cast {color:#CCCCCC;text-shadow:0 1px 0 white;font-size:12px;margin:45px auto;width:700px;margin-bottom: -40px;padding-left: 5px;}
 .previous {float: left;}
 .next {float: right;}
 
