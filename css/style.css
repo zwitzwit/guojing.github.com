@@ -4,7 +4,7 @@ body {font-family: "Overlock","Hiragino Sans GB","Microsoft YaHei",sans-serif}
 
 .main {width:700px;margin:65px auto;}
 .comments {width:699px;margin:35px auto;}
-.guide {width: 700px;margin: -40px auto;}
+.guide {width: 700px;margin: -10px auto;}
 
 .banner {z-index: 9999; width: 100%; top: 0; left: 0; border-bottom: 1px #FAFAFA;}
 .banner {font-family: "Overlock","Hiragino Sans GB","Microsoft YaHei",sans-serif; font-size: 12px;}
