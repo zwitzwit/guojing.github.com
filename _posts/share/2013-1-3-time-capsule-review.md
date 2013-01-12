@@ -46,3 +46,8 @@ FileBrowser可以访问Time Capsule，Buzz Player HD也可以访问并播放RMVB
 最后找到一款非常好的Player，而且还可以直接连上Time Capsule，就是OPlayer，也是收费的，但是非常值得，可以播放各种文件。
 
 **推荐OPlayer和FilBrowser共同使用。**
+
+<pre>
+	def python_sample_code():
+	    print 'hello'
+</pre>
