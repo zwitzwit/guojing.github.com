@@ -1,10 +1,9 @@
 ---
 layout:     page
 title:      About
-category: blog
 description: 关于我
 ---
-Python工程师，伪设计师，只思考不负责。武汉人，现定居北京。目前服务于豆瓣的同城业务，打杂。
+Python工程师，伪设计师，只思考不负责。武汉人，现定居北京。目前服务于豆瓣的同城业务，打杂。[（更多）](/about/more/)
 
 ### 联系 ###
 
