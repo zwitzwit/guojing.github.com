@@ -2,7 +2,7 @@ body {background: #e4e8e9 url('../images/theme/bg.png');background-attachment: f
 body {font:12px/1.6 arial,helvetica,sans-serif;margin:0;padding:0;color:#666}
 body {font-family: "Overlock","Hiragino Sans GB","Microsoft YaHei",sans-serif}
 
-.main {width:700px;margin:65px auto;}
+.main {width:700px;margin:65px auto; margin-bottom: 20px}
 .comments {width:699px;margin:35px auto;}
 .guide {width: 700px;margin: -10px auto;}
 

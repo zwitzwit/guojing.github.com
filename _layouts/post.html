@@ -69,25 +69,25 @@
 </div>
 </div>
 
-<div class="guide clearfix">
+<!-- <div class="guide clearfix">
 <div class="previous">
   {% if page.previous %}
-  上一篇: <a href="{{ page.previous.url }}">{{ page.previous.title }}</a>
+  <a href="{{ page.previous.url }}">{{ page.previous.title }}</a>
   {% endif %}
 </div>
 <div class="next">
   {% if page.next %}
-  下一篇: <a href="{{ page.next.url }}">{{ page.next.title }}</a>
+  <a href="{{ page.next.url }}">{{ page.next.title }}</a>
   {% endif %}
 </div>
 </div>
-
+ -->
 <div class="comments">
 <div id="disqus_container"> 
     {% if page.not_comment %}
     <span class="comment">该文章已关闭评论。</span>
     {% else %}
-    <a href="#" class="comment" onclick="return false;">点击评论或查看评论。</a>
+    <a href="#" class="comment" onclick="return false;">点击评论或查看评论</a>
     {% endif %}    
     <div id="disqus_thread"></div>
 </div>
@@ -96,7 +96,7 @@
 <script type="text/javascript">
     $(document).ready(function(){
         $('#disqus_container .comment').on('click',function(){
-            $(this).html('加载中...');
+            $(this).html('Loading...');
     var disqus_shortname = '{{site.author.key}}';
             var that = this;
             BYB.includeScript('http://' + disqus_shortname + '.disqus.com/embed.js',function(){$(that).remove()});
