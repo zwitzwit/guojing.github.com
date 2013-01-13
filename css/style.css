@@ -52,7 +52,7 @@ body {font-family: "Overlock","Hiragino Sans GB","Microsoft YaHei",sans-serif}
 .content p{margin-bottom: 20px;}
 
 .footer, .paginator{font-size:12px; text-shadow:0 1px 0 white;text-align:center;margin-top:-10px;margin-bottom:25px;color:#b2b2b2;}
-.footer {margin-top: 60px}
+.footer {margin-top: 10px}
 
 .paginator a:link{color:rgb(85, 85, 85);text-decoration:none;text-shadow:0px 1px 0px white; padding:3px;margin:0 2px}
 .paginator a:visited{color:rgb(85, 85, 85);text-decoration:none;text-shadow:0px 1px 0px white;}
