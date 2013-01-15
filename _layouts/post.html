@@ -55,7 +55,7 @@
   <div class="content">
     {{ content }}
     <p class="clearfix eof">-- EOF --</p>
-    <p class="clearfix"><wb:share-button count="n" type="button" relateuid="1653237083" ></wb:share-button></p>
+    <p class="wbshare"><wb:share-button count="n" type="button" relateuid="1653237083" ></wb:share-button></p>
 <!--     <p class="clearfix"><wb:like type="number"></wb:like></p>
     <style>
     .WB_praise .praise_data {margin-top: 3px; border: 1px dashed #ccc; background: white}
@@ -88,7 +88,7 @@
     {% if page.not_comment %}
     <span class="comment">该文章已关闭评论。</span>
     {% else %}
-    <a href="#" class="comment" onclick="return false;">点击评论或查看评论</a>
+    <a href="#" class="comment" onclick="return false;">点击评论或查看评论。</a>
     {% endif %}    
     <div id="disqus_thread"></div>
 </div>
@@ -97,7 +97,7 @@
 <script type="text/javascript">
     $(document).ready(function(){
         $('#disqus_container .comment').on('click',function(){
-            $(this).html('Loading...');
+            $(this).html('加载中...');
     var disqus_shortname = '{{site.author.key}}';
             var that = this;
             BYB.includeScript('http://' + disqus_shortname + '.disqus.com/embed.js',function(){$(that).remove()});
