@@ -45,7 +45,7 @@ body {font-family: "Overlock","Hiragino Sans GB","Microsoft YaHei",sans-serif}
 
 .content p strong {color:black;}
 
-.title {text-align: center}
+.title {text-align: center; font-size: 40px}
 .title {margin-bottom:30px;text-shadow:0 1px 0 #f0f0f0;}
 
 .content {margin-bottom:30px;background: rgba(255, 255, 255, 0.6);font-size:13px;}
