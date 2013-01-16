@@ -1,6 +1,6 @@
 ---
 layout:     page
-title:      Public Projects
+title:      Release
 description: Public Projects
 ---
 Public Projects I'm working on.
