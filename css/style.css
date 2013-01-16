@@ -46,7 +46,7 @@ body {font-family: "Overlock","Hiragino Sans GB","Microsoft YaHei",sans-serif}
 
 .title {text-align: center}
 .title {font-family: "Overlock","Hiragino Sans GB","Microsoft YaHei",sans-serif;}
-.title {font-size:30px;margin-bottom:20px;text-shadow:0 1px 0 #f0f0f0;}
+.title {font-size:30px;margin-bottom:30px;text-shadow:0 1px 0 #f0f0f0;}
 
 .content {margin-bottom:30px;background: rgba(255, 255, 255, 0.6);font-size:13px;}
 .content {color:#626262; text-shadow:0 1px 0 white;}
@@ -71,7 +71,7 @@ body {font-family: "Overlock","Hiragino Sans GB","Microsoft YaHei",sans-serif}
 ::-moz-selection { background:transparent;}
 
 .date {text-align: center}
-.date {color:#CCCCCC;text-shadow:0 1px 0 white;font-size:12px;margin-bottom:10px;margin-left:5px;}
+.date {color:#CCCCCC;text-shadow:0 1px 0 white;font-size:12px;margin-bottom:40px;margin-left:5px;}
 .date {text-transform: uppercase;}
 .date a:link{color:#CCCCCC;text-decoration:none;text-shadow:0px 1px 0px white; padding:3px;margin:0 2px}
 .date a:visited{color:#CCCCCC;text-decoration:none;text-shadow:0px 1px 0px white;}
@@ -105,7 +105,7 @@ pre code {background: white; border: none; margin: -7px; box-shadow: none; font-
 blockquote {font-style: italic; background-image: url('../images/theme/block.png'); background-repeat: no-repeat; background-position: left top; padding-left: 25px; margin-left: 20px; background-color: transparent;}
 
 .intro {padding-left: 10px; font-size: 12px; margin-bottom: 20px; font-weight: bolder;}
-.more .title{font-size: 10px; padding-left: 10px; text-align: left}
+.more .title{font-size: 10px; padding-left: 10px; text-align: left; margin-bottom: 20px}
 
 .archive {list-style: none; padding: 0px}
 .archive li {padding: 0px}
