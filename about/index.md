@@ -12,6 +12,7 @@ Python工程师，伪设计师，只思考不负责。武汉人，现定居北�
 * [Github](http://www.github.com/guojing)
 * [Tiwtter](https://twitter.com/guojing)
 * [Instagram](http://instagram.com/soundbbg)
+* [Wordpress](http://soundbbg.wordpress.com)
 * [Flickr](http://www.flickr.com/photos/soundbbg)
 
 ### 工作 ###
