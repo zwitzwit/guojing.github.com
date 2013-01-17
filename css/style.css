@@ -1,6 +1,6 @@
 body {background: #e4e8e9 url('../images/theme/bg.png');background-attachment: fixed;}
 body {font:12px/1.6 arial,helvetica,sans-serif;margin:0;padding:0;color:#666}
-body {font-family: "Overlock","Hiragino Sans GB","Microsoft YaHei",sans-serif}
+body {font-family: "PT Sans", "Xin Gothic", "Hiragino Sans GB", "Microsoft YaHei", "WenQuanYi Micro Hei", Arial, sans-serif}
 
 .main {margin:65px auto; margin-bottom: 20px}
 .comments {width:799px;margin:35px auto;}
