@@ -7,7 +7,7 @@ tags: hack design programmer
 ---
 今天看到克军在微博上分享了一个网站，说是为了以后对设计更科学吐槽，于是我饶有兴致的点进去看了，果然是一个非常好的非常有用的网站。正如这个网站标题写：Design lessons for programmers, curated by top designers。也就是说是一个为程序员量身定制的有关设计方面的简单的教学。每周会推送一些课程给你，非常简单。也和网站页面里显眼的贴出大标题“An easy to follow design course for hackers who do amazing things”如出一辙。
 
-<img src="/images/2012/designhack_1@2x.png" width="389px" style="border:none"/>
+<img src="/images/2012/designhack_1@2x.png" width="389px" style="border:none;margin-botton:25px"/>
 
 毋庸置疑，这个网站的设计是相当有感染力的，并且细节做的都非常的好，就算是用Retina Mac Pro看，整个网站也没有不清楚的地方，完全兼容普通屏和Retina屏。不得不说，用Retina屏看是现阶段来说最好的用户体验，不仅仅能够学习到文章中所说的设计方面的知识，还能即刻原地体验第一手素材，也就是网站本身做的表率。能够给我们的学习提供优秀的素材。
 

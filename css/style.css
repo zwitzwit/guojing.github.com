@@ -113,7 +113,7 @@ pre code {background: white; border: none; margin: -7px; box-shadow: none; font-
 blockquote {font-style: italic; background-image: url('../images/theme/block.png'); background-repeat: no-repeat; background-position: left top; padding-left: 25px; margin-left: 20px; background-color: transparent;}
 
 .intro {padding-left: 10px; font-size: 12px; margin-bottom: 20px; font-weight: bolder;}
-.more .title{font-size: 10px; padding-left: 10px; text-align: left; margin-bottom: 20px}
+.more .title{font-size: 12px; padding-left: 10px; text-align: left; margin-bottom: 20px}
 
 .archive {list-style: none; padding: 0px}
 .archive li {padding: 0px}
