@@ -1,7 +1,7 @@
 ---
 layout:  page
 title: Archive
-description: Archive
+description: 归档
 ---
 即将来临的一天，比过去的一年更为悠长：
 

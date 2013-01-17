@@ -1,7 +1,7 @@
 ---
 layout:  page
 title: Categories
-description: Categories
+description: 分类
 ---
 不要为已消尽之年华叹息，必须正视匆匆溜走的时光：
 

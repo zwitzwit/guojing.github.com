@@ -1,9 +1,11 @@
 ---
 layout:     page
 title:      Release
-description: Public Projects
+description: 我的项目
 ---
-Public Projects I'm working on.
+Projects that I am working on:
+
+**- Cocoa**
 
 * [PasswordSaver](/release/password/)
 * [DoubanAPICocoa-iOS](https://github.com/GuoJing/DoubanAPICocoa-iOS)
