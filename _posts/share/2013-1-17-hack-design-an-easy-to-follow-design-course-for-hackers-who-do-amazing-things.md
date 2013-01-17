@@ -32,3 +32,5 @@ Learn at your own pace. With articles, videos, and tutorials curated by some of 
 如果你喜欢设计，又不知道如何着手，甚至你跟我一样还是一个程序员，那么可以试试：
 
 [Hack Design](http://hackdesign.org/)
+
+PS：我的博客也是支持Retina的。：D
