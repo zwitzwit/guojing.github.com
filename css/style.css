@@ -67,8 +67,14 @@ body {font-family: "Overlock","Hiragino Sans GB","Microsoft YaHei",sans-serif}
 
 .center {text-align: center}
 
-::selection { background:transparent;}
-::-moz-selection { background:transparent;}
+::selection {background: transparent;};
+::-moz-selection {background: transparent;};
+
+.content {overflow: hidden}
+.content p::selection { background:#f0f0f0;}
+.content p::-moz-selection { background:#f0f0f0;}
+
+.container {}
 
 .date {text-align: center}
 .date {color:#CCCCCC;text-shadow:0 1px 0 white;font-size:12px;margin-bottom:40px;margin-left:5px;}
@@ -76,7 +82,7 @@ body {font-family: "Overlock","Hiragino Sans GB","Microsoft YaHei",sans-serif}
 .date a:link{color:#CCCCCC;text-decoration:none;text-shadow:0px 1px 0px white; padding:3px;margin:0 2px}
 .date a:visited{color:#CCCCCC;text-decoration:none;text-shadow:0px 1px 0px white;}
 
-.content:first-letter{font-size:30px;padding-right: 3px; color: #2b2b2b}
+.content:first-letter{font-size:25px;padding-right: 3px; color: #2b2b2b}
 
 .center{text-align:center}
 
