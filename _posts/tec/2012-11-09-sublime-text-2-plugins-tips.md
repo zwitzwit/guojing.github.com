@@ -52,7 +52,7 @@ window就是window的实例，window包含多个views，view是当前buffer的�
 
 所以我们很简单的，继承一个WindowCommand来做一个很简单的小的输入和输出。样子就是这样。
 
-![input text](/images/2012/slp01.png)
+<img src="/images/2012/slp01.png" style="width:600px">
 
 输入一些标题，生成一串字符串，这是Jekyll需要的：
 
