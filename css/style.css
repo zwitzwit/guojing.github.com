@@ -69,18 +69,11 @@ body {font-family: "Overlock","Hiragino Sans GB","Microsoft YaHei",sans-serif}
 
 ::selection {background: transparent;};
 ::-moz-selection {background: transparent;};
-
-p::selection {background: #f0f0f0;};
-p::-moz-selection {background: #f0f0f0;};
-
-p ::selection {background: #f0f0f0;};
-p ::-moz-selection {background: #f0f0f0;};
+::-webkit-selection {background: transparent;};
 
 .content::selection {background: #f0f0f0;};
 .content::-moz-selection {background: #f0f0f0;};
-
-.content ::selection {background: #f0f0f0;};
-.content ::-moz-selection {background: #f0f0f0;};
+.content::-webkit-selection {background: #f0f0f0;};
 
 .container {}
 
