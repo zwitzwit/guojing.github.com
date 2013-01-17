@@ -70,8 +70,8 @@ body {font-family: "Overlock","Hiragino Sans GB","Microsoft YaHei",sans-serif}
 ::selection {background: transparent;};
 ::-moz-selection {background: transparent;};
 
-.content ::selection { background:#f0f0f0;}
-.content ::-moz-selection { background:#f0f0f0;}
+.content::selection { background:#f0f0f0;}
+.content::-moz-selection { background:#f0f0f0;}
 
 .container {}
 
@@ -95,6 +95,7 @@ body {font-family: "Overlock","Hiragino Sans GB","Microsoft YaHei",sans-serif}
 .jiathis_style {float:right}
 
 .content img{margin:0px auto;display:block;max-width:759px;margin-top: 10px; margin-bottom: 10px; border: 1px dashed #ccc; padding:3px;}
+.content {overflow: hidden;}
 .img_left img{margin:0px;}
 
 .cast {color:#CCCCCC;text-shadow:0 1px 0 white;font-size:12px;margin:45px auto;margin-bottom: -40px;padding-left: 5px;}
