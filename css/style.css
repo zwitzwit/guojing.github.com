@@ -45,10 +45,10 @@ body {font-family: "PT Sans", "Xin Gothic", "Hiragino Sans GB", "Microsoft YaHei
 
 .content p strong {color:black;}
 
-.title {text-align: center; font-size: 40px}
+.title {text-align: center; font-size: 42px}
 .title {margin-bottom:30px;text-shadow:0 1px 0 #f0f0f0;}
 
-.content {margin-bottom:30px;background: rgba(255, 255, 255, 0.6);font-size:13px;}
+.content {margin-bottom:30px;background: rgba(255, 255, 255);font-size:13px;}
 .content {color:#626262; text-shadow:0 1px 0 white;}
 .content b{color:#5c5c5c;}
 .content {padding:15px;line-height: 2.3em;}
@@ -67,13 +67,9 @@ body {font-family: "PT Sans", "Xin Gothic", "Hiragino Sans GB", "Microsoft YaHei
 
 .center {text-align: center}
 
-::selection {background: transparent;};
-::-moz-selection {background: transparent;};
-::-webkit-selection {background: transparent;};
-
-.content::selection {background: #f0f0f0;};
-.content::-moz-selection {background: #f0f0f0;};
-.content::-webkit-selection {background: #f0f0f0;};
+::selection {background: #f0f0f0;};
+::-moz-selection {background: #f0f0f0;};
+::-webkit-selection {background: #f0f0f0;};
 
 .container {}
 
