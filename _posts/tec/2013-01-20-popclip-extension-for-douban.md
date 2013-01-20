@@ -1,6 +1,6 @@
 ---
 layout:    post
-title:     PopClip && Douban
+title:     PopClip + Douban
 category:  tec
 description: PopClip extension for douban...
 tags: popclip extension douban search 插件 开发
