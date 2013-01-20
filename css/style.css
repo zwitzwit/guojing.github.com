@@ -2,6 +2,8 @@ body {background: #e4e8e9 url('../images/theme/bg.png');background-attachment: f
 body {font:12px/1.6 arial,helvetica,sans-serif;margin:0;padding:0;color:#666}
 body {font-family: "PT Sans", "Xin Gothic", "Hiragino Sans GB", "Microsoft YaHei", "WenQuanYi Micro Hei", Arial, sans-serif}
 
+h1, h2, h3, h4, h5, h6 {color: black}
+
 .main {margin:65px auto; margin-bottom: 20px}
 .comments {width:799px;margin:35px auto;}
 .guide {margin: -10px auto;}
@@ -43,7 +45,7 @@ body {font-family: "PT Sans", "Xin Gothic", "Hiragino Sans GB", "Microsoft YaHei
 .content a:link{padding:3px; text-shadow: 0 1px 0 white; -moz-border-radius:4px;-webkit-border-radius:4px;border-radius:4px;margin:0 2px;color:gray;text-decoration:none}
 /*.content a:hover {background:#4d4f51; padding:3px; color:white; text-shadow: 0 1px 0 black; -moz-border-radius:4px;-webkit-border-radius:4px;border-radius:4px;margin:0 2px}*/
 
-.content p strong {color:black;}
+.content strong {color:black;}
 
 .title {text-align: center; font-size: 42px}
 .title {margin-bottom:30px;text-shadow:0 1px 0 #f0f0f0;}
