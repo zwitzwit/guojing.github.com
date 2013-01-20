@@ -1,7 +1,3 @@
-## 下载 ##
-
-[干净博客版下载](https://github.com/GuoJing/guojing.github.com/downloads)
-
 ## 关于 ##
 
 这是我的博客，你可以fork我的代码，从我的代码里面你可以轻松的创建一个博客。也就是说，你可以fork然后直接用我的皮肤。
@@ -45,6 +41,10 @@
 2. private 私有日志
 
 tips: private私有日志只是预发布作用，实际上在github上还是可以看到的。
+
+## Retina ##
+
+1. 该皮肤支持rmbp以及Retina屏及分辨率。
 
 ## 一些工具 ##
 
