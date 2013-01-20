@@ -25,7 +25,7 @@ tags: hack design programmer
 
 虽然我们总说设计、用户体验、手感等等和设计或多或少相关和不相关的东西，但我们自身对“设计”这个概念了解的太少了，尤其是对一个程序员来说。一个经过设计的东西如何才能变成一个好的设计产品呢？而且从潮流和趋势来看，这不仅仅是设计师的问题，也许慢慢的会成为每一个工程人员所需要思考的问题。回头来看，现在不是已经有很多公司已经把设计当成重中之重了么。
 
-**Why design?** What purpose does it serve? It's not purely aesthetic, nor wholly analytical and functional. When considering the design of your projects, you must think about how everything fits together in harmony - some would call this a holistic approach, but it's really the only practical way to approach design problems, as I see it.
+> **Why design?** What purpose does it serve? It's not purely aesthetic, nor wholly analytical and functional. When considering the design of your projects, you must think about how everything fits together in harmony - some would call this a holistic approach, but it's really the only practical way to approach design problems, as I see it.
 
 Learn at your own pace. With articles, videos, and tutorials curated by some of the world's best designers, there's no easier way to learn design this year.
 

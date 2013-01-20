@@ -106,7 +106,7 @@ code {border:1px solid #ccc; background:white; padding:3px 5px; margin:0 3px;-mo
 
 pre {padding:10px; background:white; text-shadow:0 1px 0 white; -moz-border-radius:4px;-webkit-border-radius:4px;border-radius:4px;}
 pre code {background: white; border: none; margin: -7px; box-shadow: none; font-family: helvetica;}
-blockquote {font-style: italic; background-image: url('../images/theme/block.png'); background-repeat: no-repeat; background-position: left top; padding-left: 25px; margin-left: 20px; background-color: transparent;}
+blockquote {font-style: italic; background-image: url('../images/theme/block@2x.png'); background-repeat: no-repeat; background-position: left top; padding-left: 25px; margin-left: 20px; background-color: transparent; background-size: 16px}
 
 .intro {padding-left: 10px; font-size: 12px; margin-bottom: 20px; font-weight: bolder;}
 .more .title{font-size: 12px; padding-left: 10px; text-align: left; margin-bottom: 20px}
