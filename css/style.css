@@ -4,15 +4,16 @@ body {font-family: "PT Sans", "Xin Gothic", "Hiragino Sans GB", "Microsoft YaHei
 
 h1, h2, h3, h4, h5, h6 {color: black}
 
-.main {margin:65px auto; margin-bottom: 20px}
-.comments {width:799px;margin:35px auto;}
+.main {margin:45px auto; margin-bottom: 20px}
+.comments {width:699px;margin:35px auto;}
 .guide {margin: -10px auto;}
-.cast, .main, .comments {width:800px}
+.cast, .main, .comments{width:700px}
+.banner {width: 440px;}
 .cast {display: none}
 
-.banner {z-index: 9999; width: 100%; top: 0; left: 0; border-bottom: 1px #FAFAFA;}
+.banner {z-index: 9999; top: 0; left: 0;}
 .banner {font-family: "Overlock","Hiragino Sans GB","Microsoft YaHei",sans-serif; font-size: 12px;}
-.banner {height:35px;margin:0px auto;background: rgba(255, 255, 255);}
+.banner {height:35px;margin:20px auto;background: rgba(255, 255, 255);}
 .banner ul {list-style:none;padding:8px 0px 0px 10px;margin:0px}
 .banner ul li {float:left; margin-right:15px}
 
@@ -47,7 +48,7 @@ h1, h2, h3, h4, h5, h6 {color: black}
 
 .content strong {color:black;}
 
-.title {text-align: center; font-size: 42px}
+.title {text-align: center; font-size: 70px}
 .title {margin-bottom:30px;text-shadow:0 1px 0 #f0f0f0;}
 
 .content {margin-bottom:30px;background: rgba(255, 255, 255);font-size:13px;}
@@ -94,7 +95,7 @@ h1, h2, h3, h4, h5, h6 {color: black}
 
 .jiathis_style {float:right}
 
-.content img{margin:0px auto;display:block;max-width:759px;margin-top: 10px; margin-bottom: 10px; border: 1px dashed #ccc; padding:3px;}
+.content img{margin:0px auto;display:block;max-width:659px;margin-top: 10px; margin-bottom: 10px; border: 1px dashed #ccc; padding:3px;}
 .content {overflow: hidden;}
 .img_left img{margin:0px;}
 
