@@ -169,7 +169,7 @@ blockquote {font-style: italic; background-image: url('../images/theme/block@2x.
     .more, .insta {float: none}
     .insta {display: none}
     .date {font-size: 12px}
-    .content {font-size: 14px;}
+    .banner {width: 480px;}
     .content img {max-width: 470px}
 }
 
@@ -178,7 +178,7 @@ blockquote {font-style: italic; background-image: url('../images/theme/block@2x.
     .title {font-size:30px;}
     .more, .insta {float: none}
     .date {font-size: 12px}
-    .content {font-size: 14px;}
+    .banner {width: 640px;}
     .insta {display: none}
     .content img {max-width: 630px}
 }
