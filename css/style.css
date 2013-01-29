@@ -8,17 +8,15 @@ h1, h2, h3, h4, h5, h6 {color: black}
 .comments {width:699px;margin:35px auto;}
 .guide {margin: -10px auto;}
 .cast, .main, .comments{width:700px}
-.banner {width: 440px;}
 .cast {display: none}
 
-.banner {z-index: 9999; top: 0; left: 0;}
-.banner {font-family: "Overlock","Hiragino Sans GB","Microsoft YaHei",sans-serif; font-size: 12px;}
-.banner {height:35px;margin:20px auto;background: rgba(255, 255, 255);}
-.banner ul {list-style:none;padding:8px 0px 0px 10px;margin:0px}
-.banner ul li {float:left; margin-right:15px}
+.banner2 {z-index: 9999; top: 0; left: 0;}
+.banner2 {font-family: "Overlock","Hiragino Sans GB","Microsoft YaHei",sans-serif; font-size: 12px;}
+.banner2 span {margin-right:5px}
+.banner2 {margin-bottom: 60px; text-align: center; margin: 30px auto}
 
-.banner a:link{color:#817F7F;text-decoration:none;text-shadow:0px 1px 0px white; padding:3px;margin:0 2px}
-.banner a:visited{color:#817F7F;text-decoration:none;text-shadow:0px 1px 0px white;}
+.banner2 a:link{color:#817F7F;text-decoration:none;text-shadow:0px 1px 0px white; padding:3px;margin:0 2px}
+.banner2 a:visited{color:#817F7F;text-decoration:none;text-shadow:0px 1px 0px white;}
 /*
 .banner a:hover{background:#4d4f51; padding:3px; color:white; text-shadow: 0 1px 0 black; -moz-border-radius:4px;-webkit-border-radius:4px;border-radius:4px;margin:0 2px;}
 */
@@ -91,6 +89,7 @@ h1, h2, h3, h4, h5, h6 {color: black}
 .share {margin:10px auto; width:630px;text-align:right}
 .WB_praise .praise_intro {padding-top: 9px}
 
+.clear {content: "."; display: block; height: 0; clear: both; visibility: hidden}
 .clearfix:after { content: "."; display: block; height: 0; clear: both; visibility: hidden }
 
 .jiathis_style {float:right}
@@ -111,7 +110,7 @@ pre {padding:10px; background:white; text-shadow:0 1px 0 white; -moz-border-radi
 pre code {background: white; border: none; margin: -7px; box-shadow: none; font-family: helvetica;}
 blockquote {font-style: italic; background-image: url('../images/theme/block@2x.png'); background-repeat: no-repeat; background-position: left top; padding-left: 25px; margin-left: 20px; background-color: transparent; background-size: 16px}
 
-.intro {padding-left: 10px; font-size: 12px; margin-bottom: 20px; font-weight: bolder;}
+.intro {padding-left: 10px; font-size: 12px; margin-bottom: 20px; font-weight: bolder; margin-top: 20px}
 .more .title{font-size: 12px; padding-left: 10px; text-align: left; margin-bottom: 20px}
 
 .archive {list-style: none; padding: 0px}
@@ -148,29 +147,32 @@ blockquote {font-style: italic; background-image: url('../images/theme/block@2x.
 .tag4 a:visited {font-size:24px;padding:3px; text-shadow: 0 1px 0 white; -moz-border-radius:4px;-webkit-border-radius:4px;border-radius:4px;margin:0 2px;color:black;text-decoration:none}
 /*.tag4 a:hover {font-size:24px;background:#4d4f51; padding:3px; color:white; text-shadow: 0 1px 0 black; -moz-border-radius:4px;-webkit-border-radius:4px;border-radius:4px;margin:0 2px}*/
 
-.mobile {}
+.links, .feed, .release{}
 
 @media (max-width: 320px) {
-    .cast, .main, .comments{width: 100%;}
+    .cast, .main, .comments, .content, .cast{width: 90%; margin: 0px}
     .title {font-size:30px;}
     .more, .insta {float: none}
     .insta {display: none}
-    .banner ul li {margin-bottom: 10px}
-    .banner {font-size:11px;}
-    .banner {width: 320px}
-    .mobile {display: none}
+    .date {font-size: 12px}
+    .content {margin: 0px auto;}
     .content img {max-width: 310px}
-    #disqus_container, .forb{text-align: center;}
+    .feed, .links, .release{display: none}
+    #disqus_container, .forb{margin-left: 10px}
+    .forb {margin-top: 20px}
 }
 
 @media (max-width: 480px) {
-    .main {width: 100%;}
-    .title {font-size:40px;}
+    .cast, .main, .comments, .content, .cast{width: 90%; margin: 0px}
+    .title {font-size:30px;}
     .more, .insta {float: none}
     .insta {display: none}
     .date {font-size: 12px}
-    .banner {width: 480px;}
+    .content {margin: 0px auto;}
     .content img {max-width: 470px}
+    .feed {display: none}
+    #disqus_container, .forb{margin-left: 10px}
+    .forb {margin-top: 20px}
 }
 
 @media (max-width: 640px) {
@@ -178,7 +180,6 @@ blockquote {font-style: italic; background-image: url('../images/theme/block@2x.
     .title {font-size:30px;}
     .more, .insta {float: none}
     .date {font-size: 12px}
-    .banner {width: 640px;}
     .insta {display: none}
     .content img {max-width: 630px}
 }

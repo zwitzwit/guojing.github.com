@@ -15,42 +15,7 @@
 {{ content }}
 </div>
 
-<!-- <div class="paginator">
-
-{% if paginator.previous_page or paginator.next_page %}
-
-{% if paginator.previous_page %}
-
-{% if paginator.previous_page == 1 %}
-<a href="{{ page.id }}/">上一页</a>
-{% else %}
-<a href="{{ page.id }}/page{{ paginator.previous_page }}/">上一页</a>
-{% endif %}
-
-{% endif %}
-
-{% if paginator.next_page %}
-<a href="{{ page.id }}/page{{ paginator.next_page }}/">下一页</a>
-{% endif %}
-</div>
-
-{% endif %}
-
- -->
- {% include footer.html %}
-
-<script type="text/javascript">
-    /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
-    var disqus_shortname = '{{site.author.key}}';
-
-    /* * * DON'T EDIT BELOW THIS LINE * * */
-    (function () {
-        var s = document.createElement('script'); s.async = true;
-        s.type = 'text/javascript';
-        s.src = 'http://' + disqus_shortname + '.disqus.com/count.js';
-        (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
-    }());
-</script>
+{% include footer.html %}
 </body>
 </html>
 
