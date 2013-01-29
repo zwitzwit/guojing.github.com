@@ -165,11 +165,15 @@ blockquote {font-style: italic; background-image: url('../images/theme/block@2x.
     .title {font-size:40px;}
     .more, .insta {float: none}
     .insta {display: none}
+    .date {font-size: 12px}
+    .content {font-size: 14px;}
 }
 
 @media (max-width: 640px) {
     .main {width: 100%;}
     .title {font-size:30px;}
     .more, .insta {float: none}
+    .date {font-size: 12px}
+    .content {font-size: 14px;}
     .insta {display: none}
 }
