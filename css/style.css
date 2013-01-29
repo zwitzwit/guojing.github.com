@@ -153,6 +153,8 @@ blockquote {font-style: italic; background-image: url('../images/theme/block@2x.
     .title {font-size:30px;}
     .more, .insta {float: none}
     .insta {display: none}
+    .banner {width: 320px}
+    .banner ul li {margin-bottom: 10px}
 }
 
 @media (max-width: 480px) {
@@ -160,6 +162,7 @@ blockquote {font-style: italic; background-image: url('../images/theme/block@2x.
     .title {font-size:40px;}
     .more, .insta {float: none}
     .insta {display: none}
+    .banner {width: 100%}
 }
 
 @media (max-width: 640px) {
@@ -167,4 +170,5 @@ blockquote {font-style: italic; background-image: url('../images/theme/block@2x.
     .title {font-size:60px;}
     .more, .insta {float: none}
     .insta {display: none}
+    .banner {width: 100%}
 }
