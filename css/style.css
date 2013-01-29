@@ -147,3 +147,24 @@ blockquote {font-style: italic; background-image: url('../images/theme/block@2x.
 .tag4 a:link{font-size:24px;color: black;padding:3px; text-shadow: 0 1px 0 white; -moz-border-radius:4px;-webkit-border-radius:4px;border-radius:4px;margin:0 2px;text-decoration:none}
 .tag4 a:visited {font-size:24px;padding:3px; text-shadow: 0 1px 0 white; -moz-border-radius:4px;-webkit-border-radius:4px;border-radius:4px;margin:0 2px;color:black;text-decoration:none}
 /*.tag4 a:hover {font-size:24px;background:#4d4f51; padding:3px; color:white; text-shadow: 0 1px 0 black; -moz-border-radius:4px;-webkit-border-radius:4px;border-radius:4px;margin:0 2px}*/
+
+@media (max-width: 320px) {
+    .main {width: 100%;}
+    .title {font-size:30px;}
+    .more, .insta {float: none}
+    .insta {display: none}
+}
+
+@media (max-width: 480px) {
+    .main {width: 100%;}
+    .title {font-size:40px;}
+    .more, .insta {float: none}
+    .insta {display: none}
+}
+
+@media (max-width: 640px) {
+    .main {width: 100%;}
+    .title {font-size:60px;}
+    .more, .insta {float: none}
+    .insta {display: none}
+}
