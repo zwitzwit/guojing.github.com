@@ -155,10 +155,9 @@ blockquote {font-style: italic; background-image: url('../images/theme/block@2x.
     .title {font-size:30px;}
     .more, .insta {float: none}
     .insta {display: none}
-    .banner {width: 320px}
     .banner ul li {margin-bottom: 10px}
     .mobile {display: none}
-    .conten img {max-width: 279px}
+    .content img {max-width: 310px}
 }
 
 @media (max-width: 480px) {
@@ -168,7 +167,7 @@ blockquote {font-style: italic; background-image: url('../images/theme/block@2x.
     .insta {display: none}
     .date {font-size: 12px}
     .content {font-size: 14px;}
-    .conten img {max-width: 439px}
+    .content img {max-width: 470px}
 }
 
 @media (max-width: 640px) {
@@ -178,5 +177,5 @@ blockquote {font-style: italic; background-image: url('../images/theme/block@2x.
     .date {font-size: 12px}
     .content {font-size: 14px;}
     .insta {display: none}
-    .conten img {max-width: 599px}
+    .content img {max-width: 630px}
 }
