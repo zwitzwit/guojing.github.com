@@ -151,11 +151,13 @@ blockquote {font-style: italic; background-image: url('../images/theme/block@2x.
 .mobile {}
 
 @media (max-width: 320px) {
-    .main {width: 100%;}
+    .cast, .main, .comments{width: 100%;}
     .title {font-size:30px;}
     .more, .insta {float: none}
     .insta {display: none}
     .banner ul li {margin-bottom: 10px}
+    .banner {font-size:11px;}
+    .banner {width: 320px}
     .mobile {display: none}
     .content img {max-width: 310px}
 }
