@@ -159,7 +159,7 @@ blockquote {font-style: italic; background-image: url('../images/theme/block@2x.
 
 @media (max-width: 480px) {
     .main {width: 100%;}
-    .title {font-size:40px;}
+    .title {font-size:30px;}
     .more, .insta {float: none}
     .insta {display: none}
     .banner {width: 100%}
@@ -167,7 +167,7 @@ blockquote {font-style: italic; background-image: url('../images/theme/block@2x.
 
 @media (max-width: 640px) {
     .main {width: 100%;}
-    .title {font-size:60px;}
+    .title {font-size:30px;}
     .more, .insta {float: none}
     .insta {display: none}
     .banner {width: 100%}
