@@ -160,7 +160,7 @@ blockquote {font-style: italic; background-image: url('../images/theme/block@2x.
     .feed, .links, .release{display: none}
     #disqus_container, .forb{margin-left: 10px}
     .forb {margin-top: 20px}
-    .banner2{padding-left: 25px}
+    .banner2{padding-left: 30px}
 }
 
 @media (max-width: 480px) {
