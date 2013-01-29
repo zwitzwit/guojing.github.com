@@ -10,6 +10,7 @@ Python工程师，伪设计师，只思考不负责。武汉人，现定居北�
 * [Douban](http://www.douban.com/people/JGuo/)
 * [Weibo](http://weibo.com/soundbbg/)
 * [Github](http://www.github.com/guojing)
+* [Tumblr](http://jguoer.tumblr.com/)
 * [Tiwtter](https://twitter.com/guojing)
 * [Instagram](http://instagram.com/soundbbg)
 * [Wordpress](http://soundbbg.wordpress.com)
