@@ -148,6 +148,8 @@ blockquote {font-style: italic; background-image: url('../images/theme/block@2x.
 .tag4 a:visited {font-size:24px;padding:3px; text-shadow: 0 1px 0 white; -moz-border-radius:4px;-webkit-border-radius:4px;border-radius:4px;margin:0 2px;color:black;text-decoration:none}
 /*.tag4 a:hover {font-size:24px;background:#4d4f51; padding:3px; color:white; text-shadow: 0 1px 0 black; -moz-border-radius:4px;-webkit-border-radius:4px;border-radius:4px;margin:0 2px}*/
 
+.mobile {}
+
 @media (max-width: 320px) {
     .main {width: 100%;}
     .title {font-size:30px;}
@@ -155,14 +157,14 @@ blockquote {font-style: italic; background-image: url('../images/theme/block@2x.
     .insta {display: none}
     .banner {width: 320px}
     .banner ul li {margin-bottom: 10px}
+    .mobile {display: none}
 }
 
 @media (max-width: 480px) {
     .main {width: 100%;}
-    .title {font-size:30px;}
+    .title {font-size:40px;}
     .more, .insta {float: none}
     .insta {display: none}
-    .banner {width: 100%}
 }
 
 @media (max-width: 640px) {
@@ -170,5 +172,4 @@ blockquote {font-style: italic; background-image: url('../images/theme/block@2x.
     .title {font-size:30px;}
     .more, .insta {float: none}
     .insta {display: none}
-    .banner {width: 100%}
 }
