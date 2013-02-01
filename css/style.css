@@ -157,7 +157,7 @@ blockquote {font-style: italic; background-image: url('../images/theme/block@2x.
     .date {font-size: 12px}
     .content {margin: 0px auto;}
     .content img {max-width: 310px}
-    .feed, .links, .release{display: none}
+    .feed, .links, .release, .archive{display: none}
     #disqus_container, .forb{margin-left: 10px}
     .forb {margin-top: 20px}
     .banner2{padding-left: 30px}
