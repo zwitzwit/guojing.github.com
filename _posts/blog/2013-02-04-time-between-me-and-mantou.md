@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      时光
+title:      好时光
 category: blog
 description: 好时光
 tags: 记录 感悟 宠物 狗 馒头
