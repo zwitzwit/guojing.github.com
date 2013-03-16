@@ -3,7 +3,7 @@ layout:    post
 title:     And I Love You So
 category:  blog
 description: And I Love You So...
-tags: code life
+tags: life love together
 ---
 <div class="center"><img src="/images/2013/girl.png" style="border:none;width:280px;height:280px"></div>
 
