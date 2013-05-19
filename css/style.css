@@ -46,7 +46,7 @@ h1, h2, h3, h4, h5, h6 {color: black}
 
 .content strong {color:black;}
 
-.title {text-align: center; font-size: 60px}
+.title {text-align: center; font-size: 50px}
 .title {margin-bottom:30px;text-shadow:0 1px 0 #f0f0f0;}
 
 .content {margin-bottom:30px;background: rgba(255, 255, 255);font-size:13px;}
