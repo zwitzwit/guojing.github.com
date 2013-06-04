@@ -19,3 +19,5 @@ See **pycurl.c** in `src/pycurl.c`:
 
 	insint_c(d, "TIMEOUT", CURLOPT_TIMEOUT);
 	insint_c(d, "CONNECTTIMEOUT", CURLOPT_CONNECTTIMEOUT);
+
+You can see TIMEOUT in pycurl equals CURLOPT_TIMEOUT in curl, so does CONNECTTIMEOUT, it equals to CURLOPT_CONNECTTIMEOUT.
