@@ -54,14 +54,6 @@
   <div class="date">记于{{ page.date | date:"%Y年%m月%d日"}} <a href="/categories/#{{ post.categories }}">{{ page.categories }}</a></div>
   <div class="content">
     {{ content }}
-    <p class="wbshare" style="margin-bottom:-35px"><wb:share-button count="n" type="button" relateuid="1653237083" ></wb:share-button></p>
-<!--     <p class="clearfix"><wb:like type="number"></wb:like></p>
-    <style>
-    .WB_praise .praise_data {margin-top: 3px; border: 1px dashed #ccc; background: white}
-    .WB_praise {float:right;}
-    .WB_praise .praise_data .data_arrow {display: none}
-    </style>
- -->  </div>
   <div class="forb">
   {% for tag in page.tags %}
   <a href="/tags/#{{ tag }}">#{{ tag }}</a>
