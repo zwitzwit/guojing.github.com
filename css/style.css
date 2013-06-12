@@ -106,7 +106,7 @@ blockquote {font-style: italic; background-image: url("../images/theme/block@2x.
 .archive .year {color: black; font-weight: bold; text-transform: uppercase; margin: 10px 0px;}
 
 .eof {font-weight: bolder; color: black;}
-.forb {font-size: 12px; color: #b2b2b2; text-align: right; margin-bottom: 20px}
+.forb {font-size: 12px; color: #b2b2b2; text-align: right; margin-bottom: 20px; padding:10px}
 .upper {text-transform: uppercase;}
 .tagcloud {margin-top: 10px}
 
