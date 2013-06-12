@@ -58,16 +58,17 @@ h1, h2, h3, h4, h5, h6 {color: black}
 
 .center {text-align: center}
 
-::selection {background: #00b893; color:white};
-::-moz-selection {background: #00b893; color:white};
-::-webkit-selection {background: #00b893; color:white};
+::selection {background: #f0f6e4;}
+::-moz-selection {background: #f0f6e4;}
+::-webkit-selection {background: #f0f6e4;}
 
 .container {}
 
-.date {color:#CCCCCC;font-size:12px;margin-left:15px;}
+.date {color:white;font-size:12px;margin-left:15px;}
 .date {text-transform: uppercase;}
-.date a:link{color:#CCCCCC;text-decoration:none;padding:3px;margin:0 2px}
-.date a:visited{color:#CCCCCC;text-decoration:none;}
+.date a:link{color:white;text-decoration:none;padding:3px;margin:0 2px}
+.date a:visited{color:white;text-decoration:none;}
+.date {background:#00b893; width: 190px;-moz-border-radius:4px;-webkit-border-radius:4px;border-radius:4px;text-align:center}
 
 .center{text-align:center}
 
