@@ -27,4 +27,4 @@ tags: 新海诚 言ノ葉 Rain
 
 大概他们就是这样想着的。
 
-<embed src="http://www.xiami.com/widget/0_1771828615/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed>
+PS: [去听听这首歌吧](http://www.xiami.com/song/1771828618)
