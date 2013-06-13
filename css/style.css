@@ -5,7 +5,7 @@ body {font-family: "Rosario", "Xin Gothic", "Hiragino Sans GB", "Microsoft YaHei
 h1, h2, h3, h4, h5, h6 {color: black}
 
 .main {margin:35px auto; margin-bottom: 20px}
-.comments {width:664px;margin:0px auto;}
+.comments {width:664px;margin:30px auto;}
 .guide {margin: -10px auto;}
 .cast, .main {width:700px}
 .cast {display: none}
@@ -16,6 +16,7 @@ h1, h2, h3, h4, h5, h6 {color: black}
 
 .banner2 a:link{color:#817F7F;text-decoration:none;padding:3px;margin:0 2px}
 .banner2 a:visited{color:#817F7F;text-decoration:none;}
+.banner2 a:hover{color:#00b893;text-decoration:none;}
 .insta {float: right}
 .comments .comment {font-size: 14px;}
 
@@ -107,12 +108,13 @@ blockquote {font-style: italic; background-image: url("../images/theme/block@2x.
 .archive .year {color: black; font-weight: bold; text-transform: uppercase; margin: 10px 0px;}
 
 .eof {font-weight: bolder; color: black;}
-.forb {font-size: 12px; color: #b2b2b2; text-align: right; padding:10px; margin-top: -20px}
+.forb {font-size: 14px; color: #b2b2b2; text-align: right; padding:10px; margin-top: -20px}
 .upper {text-transform: uppercase;}
 .tagcloud {margin-top: 10px}
 
-.forb a:link{font-size:12px;color: #b2b2b2;padding:3px; -moz-border-radius:4px;-webkit-border-radius:4px;border-radius:4px;margin:0 2px;text-decoration:none}
-.forb a:visited {font-size:12px;padding:3px; -moz-border-radius:4px;-webkit-border-radius:4px;border-radius:4px;margin:0 2px;color:#b2b2b2;text-decoration:none}
+.forb a:link{font-size:14px;color: #b2b2b2;padding:3px; -moz-border-radius:4px;-webkit-border-radius:4px;border-radius:4px;margin:0 2px;text-decoration:none}
+.forb a:visited {font-size:14px;padding:3px; -moz-border-radius:4px;-webkit-border-radius:4px;border-radius:4px;margin:0 2px;color:#b2b2b2;text-decoration:none}
+.forb a:hover {font-size:14px;padding:3px; -moz-border-radius:4px;-webkit-border-radius:4px;border-radius:4px;margin:0 2px;color:#00b893;text-decoration:none}
 
 .tag0 a:link{font-size:14px;color: #c4c4c4;padding:3px; -moz-border-radius:4px;-webkit-border-radius:4px;border-radius:4px;margin:0 2px;text-decoration:none}
 .tag0 a:visited {font-size:14px;padding:3px; -moz-border-radius:4px;-webkit-border-radius:4px;border-radius:4px;margin:0 2px;color:#c4c4c4;text-decoration:none}
@@ -130,6 +132,8 @@ blockquote {font-style: italic; background-image: url("../images/theme/block@2x.
 .tag4 a:visited {font-size:24px;padding:3px; -moz-border-radius:4px;-webkit-border-radius:4px;border-radius:4px;margin:0 2px;color:black;text-decoration:none}
 
 .links, .feed, .release{}
+
+.guide {font-size:14px; margin:10px auto; width: 665px; line-height: 2em}
 
 @media (max-width: 320px) {
     .cast, .main, .comments, .content, .cast{width: 90%; margin: 0px}
