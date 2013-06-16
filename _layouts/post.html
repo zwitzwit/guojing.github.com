@@ -38,7 +38,7 @@
     //}
   </script>
   <meta content="{{ page.description }}" name="description"/>
-  <meta content="{{ page.tags }},{{ page.title }}" name="keywords"/>
+  <meta content="{% for tag in page.tags %}{{ tag }},{% endfor %}" name="keywords"/>
   <meta property="og:type" content="article" />
   <meta property="og:url" content="{{ site.url }}/{{ page.url }}" />
   <meta property="og:title" content="{{ page.title }}" />
@@ -51,8 +51,8 @@
 
 <div class="main">
   <div class="title"><a href="{{ page.url }}">{{ page.title }}</a></div>
-  <div class="date">记于{{ page.date | date:"%Y年%m月%d日"}} <a href="/categories/#{{ post.categories }}">{{ page.categories }}</a></div>
-  <div class="content">
+  <div class="date {{ page.categories }}_css">记于{{ page.date | date:"%Y年%m月%d日"}} <a href="/categories/#{{ post.categories }}">{{ page.categories }}</a></div>
+  <div class="content {{ page.categories }}_content_css">
     {{ content }}
   <div class="forb">
   {% for tag in page.tags %}
@@ -71,7 +71,7 @@
   {% endif %}
 </div>
 -->
-<div class="comments">
+<div class="comments {{ page.categories }}_comments_css">
 <div id="disqus_container"> 
     {% if page.not_comment %}
     <span class="comment">该文章已关闭评论。</span>

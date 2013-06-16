@@ -36,6 +36,10 @@ h1, h2, h3, h4, h5, h6 {color: black}
 .content a:link{padding:3px; -moz-border-radius:4px;-webkit-border-radius:4px;border-radius:4px;margin:0 2px;color:gray;text-decoration:none}
 .content a:hover{padding:3px; -moz-border-radius:4px;-webkit-border-radius:4px;border-radius:4px;margin:0 2px;color:#00b893;text-decoration:none}
 
+.tec_content_css a:hover{padding:3px; -moz-border-radius:4px;-webkit-border-radius:4px;border-radius:4px;margin:0 2px;color:#ff7862;text-decoration:none}
+
+.share_content_css a:hover{padding:3px; -moz-border-radius:4px;-webkit-border-radius:4px;border-radius:4px;margin:0 2px;color:#00c2fa;text-decoration:none}
+
 .content strong {color:black;}
 
 .title {font-size: 40px; margin-left:13px}
@@ -57,6 +61,12 @@ h1, h2, h3, h4, h5, h6 {color: black}
 .comments a:link{color:#00b893;text-decoration:none;padding:3px;margin:0 2px}
 .comments a:visited{color:#00b893;text-decoration:none;}
 
+.tec_comments_css a:link{color:#ff7862;text-decoration:none;padding:3px;margin:0 2px}
+.tec_comments_css a:visited{color:#ff7862;text-decoration:none;}
+
+.share_comments_css a:link{color:#00c2fa;text-decoration:none;padding:3px;margin:0 2px}
+.share_comments_css a:visited{color:#00c2fa;text-decoration:none;}
+
 .center {text-align: center}
 
 ::selection {background: #f0f6e4;}
@@ -69,7 +79,9 @@ h1, h2, h3, h4, h5, h6 {color: black}
 .date {text-transform: uppercase;}
 .date a:link{color:white;text-decoration:none;padding:3px;margin:0 2px}
 .date a:visited{color:white;text-decoration:none;}
-.date {background:#00b893; width: 190px;-moz-border-radius:4px;-webkit-border-radius:4px;border-radius:4px;text-align:center}
+.blog_css, .date, .tec_css, .share_css{background:#00b893; width: 190px;-moz-border-radius:4px;-webkit-border-radius:4px;border-radius:4px;text-align:center}
+.tec_css {background:#ff7862}
+.share_css {background:#00c2fa}
 
 .center{text-align:center}
 
