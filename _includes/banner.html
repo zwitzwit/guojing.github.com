@@ -7,6 +7,15 @@
 </div>
 
 <script>
+$(document).ready(function(){
+	$('.main .title a').hover(
+		function(){
+			$(this).animate({opacity: 0.3}, 400)
+		}, 
+		function(){
+			$(this).animate({opacity: 1}, 400)
+		});
+});
 function getURLParameter(name) {
     return decodeURI(
         (RegExp(name + '=' + '(.+?)(&|$)').exec(location.search)||[,null])[1]
