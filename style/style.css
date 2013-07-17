@@ -9,9 +9,10 @@ h3 {font-size:16px}
 .banner {margin:35px auto; margin-bottom: 20px; width: 71%}
 
 .title {font-size:3.5em;}
-.content {font-size:1.2em; line-height: 2.3em}
+.content, blockquote{font-size:1.2em; line-height: 2.3em}
 .content p{margin-bottom: 20px;}
 .content img{margin:0px auto;display:block;margin-top: 10px; margin-bottom: 20px; padding:3px;}
+blockquote p {font-size:1.2em; font-weight:normal; line-height: 2.3em; font-size:14px; font-style:italic;}
 
 .title, .date, .content {margin-bottom:20px}
 .more .title {font-size:1.2em;}
