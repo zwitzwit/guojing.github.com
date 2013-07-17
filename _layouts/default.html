@@ -1,5 +1,5 @@
 <!DOCTYPE HTML>
-<html xmlns:wb=“http://open.weibo.com/wb”>
+<html>
 <head>
   <title>{{ site.title }}|{{ site.description }}</title>
   {% include header.html %}
@@ -7,9 +7,10 @@
   <meta content="{{ site.headkeys }}" name="keywords"/>
 </head>
 <body>
-{% include banner.html %}
 
-<div class="cast">{{ site.description }}...</div>
+<div class="banner">
+{% include banner.html %}
+</div>
 
 <div class="main clearfix">
 {{ content }}

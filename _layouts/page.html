@@ -3,10 +3,13 @@
 <head>
   <title>{{ site.title }}|{{ site.description }}</title>
   {% include header.html %}
+  <meta content="{{ site.headdesc }}" name="description"/>
+  <meta content="{{ site.headkeys }}" name="keywords"/>
 </head>
 <body>
+<div class="banner">
 {% include banner.html %}
-<div class="cast">{{ page.description }}...</div>
+</div>
 <div class="main">
 <div class="title"><a href="{{ page.url }}">{{ page.title }}</a></div>
 <div class="date">{{ page.description }}</div>

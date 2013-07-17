@@ -1,5 +1,5 @@
 <!DOCTYPE HTML>
-<html xmlns:wb=“http://open.weibo.com/wb”>
+<html>
 <!-- <html> -->
 <head>
   <title>{{ page.title }}|{{ site.title }}</title>
@@ -30,12 +30,6 @@
     }
     return false;
     }
-    
-    //if(!window.jQuery){
-    //BYB.includeScript('http://beiyuu.com/js/jquery-1.7.1.min.js',BYB.readyFunction);
-    //}else{µ
-    //BYB.readyFunction();
-    //}
   </script>
   <meta content="{{ page.description }}" name="description"/>
   <meta content="{% for tag in page.tags %}{{ tag }},{% endfor %}" name="keywords"/>
@@ -45,9 +39,9 @@
   <meta property="og:description" content="{{ page.description }}" />
 </head>
 <body>
+<div class="banner">
 {% include banner.html %}
 </div>
-<div class="cast">{{ page.description }}...</div>
 
 <div class="main">
   <div class="title"><a href="{{ page.url }}">{{ page.title }}</a></div>
@@ -61,16 +55,6 @@
 </div>
 </div>
 
-<!--
-<div class="guide clearfix">
-  {% if page.previous %}
-  上一篇: <a href="{{ page.previous.url }}">{{ page.previous.title }}</a> <br>
-  {% endif %}
-  {% if page.next %}
-  下一篇: <a href="{{ page.next.url }}">{{ page.next.title }}</a>
-  {% endif %}
-</div>
--->
 <div class="comments {{ page.categories }}_comments_css">
 <div id="disqus_container"> 
     {% if page.not_comment %}
