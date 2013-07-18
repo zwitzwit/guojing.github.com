@@ -5,6 +5,7 @@ h1, h2, h3, h4, h5, h6 {color: black; margin:15px 0}
 
 h3 {font-size:16px}
 
+.container {padding:5px}
 .banner {margin:35px auto; margin-bottom: 20px; margin-left:-10px}
 .title {font-size:3.5em;}
 .content, blockquote{font-size:1.2em; line-height: 2.3em}
