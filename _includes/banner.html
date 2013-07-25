@@ -8,13 +8,14 @@
 
 <script>
 $(document).ready(function(){
-	$('.main .title a').hover(
+	$('a').hover(
 		function(){
 			$(this).animate({opacity: 0.3}, 400)
 		}, 
 		function(){
 			$(this).animate({opacity: 1}, 400)
 		});
+    $('.content a').attr('target', '_blank');
 });
 function getURLParameter(name) {
     return decodeURI(
