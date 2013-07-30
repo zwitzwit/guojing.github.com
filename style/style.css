@@ -13,7 +13,7 @@ h3 {font-size:16px}
 .content img{margin:0px auto;display:block;margin-top: 10px; margin-bottom: 20px;}
 blockquote p {font-size:1.2em; font-weight:normal; line-height: 2.3em; font-size:14px; font-style:italic;}
 
-.title, .date, .content {margin-bottom:20px}
+.title, .date, .content {margin-bottom:20px; margin-top:20px}
 .more .title {font-size:1.2em;}
 
 .forb {text-align:right}
