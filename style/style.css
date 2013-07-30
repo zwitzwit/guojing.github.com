@@ -62,7 +62,7 @@ a:link{text-decoration:none;}
 
 .content strong {color:black;}
 
-.comments {margin-bottom:30px;margin-left:-7px}
+.comments {margin-bottom:30px; margin-top: 50px}
 .comments .comment {font-size: 1.2em;}
 
 .archive, .content{list-style: none; padding: 0px}
