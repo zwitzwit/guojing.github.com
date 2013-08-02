@@ -78,6 +78,8 @@ pre {padding:10px; background:#f4f4f4;  -moz-border-radius:4px;-webkit-border-ra
 pre code {border: none; box-shadow: none; font-size: 14px}
 pre {margin-bottom: 25px}
 
+/* rewrite bootstrap */
+
 @media (min-width: 1200px) {
   .container,
   .navbar-static-top .container,
@@ -86,3 +88,8 @@ pre {margin-bottom: 25px}
     width: 750px;
 }
 }
+
+.nav-pills > li > a:hover {
+    color: #00b893;
+    background-color: white;
+ }
