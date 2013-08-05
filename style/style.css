@@ -5,12 +5,12 @@ h1, h2, h3, h4, h5, h6 {color: black; margin:15px 0}
 
 h3 {font-size:16px}
 
-.container {padding:5px}
+.container {padding:5px; max-width:750px}
 .banner {margin:35px auto; margin-bottom: 30px; margin-left:-10px}
 .title {font-size:4.5em;}
 .content, blockquote{font-size:1.2em; line-height: 2.3em}
 .content p{margin-bottom: 20px;}
-.content img{margin:0px auto;display:block;margin-top: 10px; margin-bottom: 20px;}
+.content img{margin:0px auto;display:block;margin-top: 10px; margin-bottom: 20px; height: auto; width:100%; display: inline-block;}
 blockquote p {font-size:1.2em; font-weight:normal; line-height: 2.3em; font-size:14px; font-style:italic;}
 
 .title, .date, .content {margin-bottom:20px;}
@@ -85,7 +85,6 @@ pre {margin-bottom: 25px}
   .navbar-static-top .container,
   .navbar-fixed-top .container,
   .navbar-fixed-bottom .container {
-    width: 750px;
 }
 }
 
