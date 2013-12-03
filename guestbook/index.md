@@ -2,7 +2,7 @@
 layout: page
 title: 留言板
 ---
-这是一个新博客，所以留言都没有了，跟文章没关系的留言，你可以留在这里。希望你会喜欢，大部分留言我都会回复，如果有任何疑问，也可以直接给我发邮件。
+这个博客关闭了评论（[为什么？](/blog/2013/08/23/goodbye-comments/)）。所以有任何留言，你可以留在这里。希望你会喜欢，大部分留言我都会回复，如果有任何疑问，也可以直接给我发邮件。
 
 <div id="disqus_thread"></div>
 <script type="text/javascript">
@@ -16,6 +16,3 @@ title: 留言板
         (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
     })();
 </script>
-<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-<a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
-    

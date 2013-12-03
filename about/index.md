@@ -10,7 +10,7 @@ Geek，什么都玩。互联网物联网都有接触，家庭光照使用Philips
 
 ### 社交 ###
 
-[Github](http://www.github.com/guojing) [微博](http://weibo.com/soundbbg) [豆瓣](http://www.douban.com/people/JGuo/) [Tiwtter](https://twitter.com/guojing) [Instagram](http://instagram.com/soundbbg) [Tumblr](http://guosann.tumblr.com)
+[Github](http://www.github.com/guojing) [微博](http://weibo.com/soundbbg) [豆瓣](http://www.douban.com/people/JGuo/) [Tiwtter](https://twitter.com/guojing) [Instagram](http://instagram.com/soundbbg) [Tumblr](http://soundbbg.tumblr.com)
 
 <p><a href="http://www.urbansketchers.org/"><img width="100" style="max-width:100px" alt="Urban Sketchers network" src="http://farm3.static.flickr.com/2659/4186496437_902ce3aaba_t.jpg"></a></p>
 <div>I'm an urban sketcher</div>
